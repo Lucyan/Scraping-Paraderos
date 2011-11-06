@@ -84,7 +84,13 @@ File.open('salida/ida.txt', 'w') do |ida|
       calle1[i] = esquina.split(" / ").first
       calle2[i] = esquina.split(" / ").last
       if calle2[i] != nil
-        calle2[i] = calle2[i].split(" - ").first
+        caracter = calle2[i].scan(/-/);
+        caracter.each do |c|
+          if c == "-"
+            calle1[i] = calle2[i].split(" - ").first
+            calle2[i] = calle2[i].split(" - ").last
+          end
+        end
       end
       if esquina != nil
         par = paradero.split("(").last
@@ -147,7 +153,13 @@ File.open('salida/regreso.txt', 'w') do |regreso|
       calle1[i] = esquina.split(" / ").first
       calle2[i] = esquina.split(" / ").last
       if calle2[i] != nil
-        calle2[i] = calle2[i].split(" - ").first
+        caracter = calle2[i].scan(/-/);
+        caracter.each do |c|
+          if c == "-"
+            calle1[i] = calle2[i].split(" - ").first
+            calle2[i] = calle2[i].split(" - ").last
+          end
+        end
       end
       if esquina != nil
         par = paradero.split("(").last
