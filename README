@@ -1,2 +1,8 @@
-Este proyecto se basa en ejemplos de web y data scraping utilizando la gema mechanizer
-El fin es poder obtener y tener a disposición la ubicación de los paraderos del transantiago
+Este proyecto se basa en ejemplos de web y data scraping escrito en Ruby y utilizando la gema mechanizer, el fin es poder obtener y tener a disposición la ubicación de los paraderos del transantiago para ser utilizado en otros proyectos
+
+versión 0.1:
+- Obtiene listado de recorridos
+- Descarga paraderos de Ida y Regreso por recorrido
+- La información obtenida es escrita en archivos de texto plano (salida/ida.txt y salida/regreso.txt
+	- La estructura de los archivos es:
+		[recorrido, paradero, esquina, intersección]
