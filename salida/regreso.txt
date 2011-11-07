@@ -29,7 +29,7 @@
 101,PJ21,Parada 4,(M) Blanqueado
 101,PJ22,Manso de Velasco,Sergio Valdovinos
 101,PJ23,Vicuña Rozas,Sergio Valdovinos
-101,PJ24,Parada 3,La Rejas
+101,PJ24,La Rejas,J.J. Pérez
 101,PJ25,Cónsul Poinsett,Sergio Valdovinos
 101,PJ26,Padre Tadeo,Radal
 101,PJ27,Nueva Extremadura,Radal
@@ -43,7 +43,7 @@
 101,PB27,Apóstol Santiago,Senador Jaime Guzmán
 101,PB28,Colón,Senador Jaime Guzmán
 101,PB29,Cam. Lo Ruíz,Senador Jaime Guzmán
-101,PB31,Parada 3,Norte Sur
+101,PB31,Norte Sur,Dorsal
 101,PB32,Barón de Juras R.,14 de La Fama
 101,PB1586,Fermín Vivaceta,14 de la Fama
 101,PB35,Av. Independencia,Av. Dorsal
@@ -128,7 +128,7 @@
 102,PH26,Pintor Murillo,Av. Departamental
 102,PH27,Juan Griego,Av. Departamental
 102,PH28,Diego de Meza,Av. Departamental
-102,PH29,Parada 2,Departamental
+102,PH29,Departamental,Santa Rosa
 102,PH30,Porto Alegre,Av. Departamental
 102,PH31,Montreal,Av. Departamental
 102,PH32,San Francisco,Av. Departamental
@@ -151,7 +151,7 @@
 102,PI61,Mailef,Av. Las Rejas
 102,PI62,Quenac,Av. Las Rejas
 102,PI63,Quitralco,Av. Las Rejas
-102,PI64,Parada 2,5 de Abril
+102,PI64,5 de Abril,Las Rejas
 102,PI45,Los Gladiolos,Av. Las Rejas
 102,PI1399,Parada 14,(M) Las Rejas
 102,PI46,Parada 1,Las Rejas
@@ -164,7 +164,7 @@
 103,PH48,Vecinal,Lo Ovalle
 103,PH49,Las Industrias,Lo Ovalle
 103,PH1443,Varas Mena,Av. Las Industrias
-103,PH1442,Parada 5,Departamental
+103,PH1442,Departamental,Las Industrias
 103,PH21,Av. Haydn,Av. Departamental
 103,PH22,Colegio Haydn,Av. Departamental
 103,PH672,Turquino,Av. Departamental
@@ -246,9 +246,9 @@
 104,PD100,UMCE 2,José Pedro Alessandri
 104,PD101,Castillo Velasco,José Pedro Alessandri
 104,PD235,Dublé Almeyda,José Pedro Alessandri
-104,PD103,Parada 1,Irarrázaval
-104,PD104,Alonso de Ercilla,Chile-España
-104,PD237,Av. Simón Bolívar,Chile-España
+104,PD103,Irarrázaval,Macul
+104,PD104,Chile-España,Chile-España
+104,PD237,Chile-España,Chile-España
 104,PD106,Hernán Cortés,General Artigas
 104,PC29,Diego de Almagro,Los Leones
 104,PC30,Bustos,Los Leones
@@ -299,7 +299,7 @@
 105,PJ45,Parada 1,(M) Gruta de Lourdes
 105,PJ46,Parada 2,Consultorio Andes
 105,PJ47,Parada 2,Tropezón
-105,PJ48,Parada 4,S. Gutiérrez
+105,PJ48,S. Gutiérrez,W. Martínez
 105,PJ49,Julio Verne,Joaquín Walker Martínez
 105,PJ50,Puente Velásquez,Joaquín Walker Martínez
 105,PB76,Av. Jorge Hirmas,Apóstol Santiago
@@ -437,7 +437,7 @@
 107,PH26,Pintor Murillo,Av. Departamental
 107,PH27,Juan Griego,Av. Departamental
 107,PH28,Diego de Meza,Av. Departamental
-107,PH29,Parada 2,Departamental
+107,PH29,Departamental,Santa Rosa
 107,PH30,Porto Alegre,Av. Departamental
 107,PH31,Montreal,Av. Departamental
 107,PH32,San Francisco,Av. Departamental
@@ -460,7 +460,7 @@
 107,PI61,Mailef,Av. Las Rejas
 107,PI62,Quenac,Av. Las Rejas
 107,PI63,Quitralco,Av. Las Rejas
-107,PI64,Parada 2,5 de Abril
+107,PI64,5 de Abril,Las Rejas
 107,PI45,Los Gladiolos,Av. Las Rejas
 107,PI1399,Parada 14,(M) Las Rejas
 107,PI46,Parada 1,Las Rejas
@@ -471,7 +471,7 @@
 107,PJ21,Parada 4,(M) Blanqueado
 107,PJ22,Manso de Velasco,Sergio Valdovinos
 107,PJ23,Vicuña Rozas,Sergio Valdovinos
-107,PJ24,Parada 3,La Rejas
+107,PJ24,La Rejas,J.J. Pérez
 107,PJ25,Cónsul Poinsett,Sergio Valdovinos
 107,PJ26,Padre Tadeo,Radal
 107,PJ27,Nueva Extremadura,Radal
@@ -485,7 +485,7 @@
 107,PB27,Apóstol Santiago,Senador Jaime Guzmán
 107,PB28,Colón,Senador Jaime Guzmán
 107,PB29,Cam. Lo Ruíz,Senador Jaime Guzmán
-107,PB31,Parada 3,Norte Sur
+107,PB31,Norte Sur,Dorsal
 107,PB32,Barón de Juras R.,14 de La Fama
 107,PB1586,Fermín Vivaceta,14 de la Fama
 107,PB35,Av. Independencia,Av. Dorsal
@@ -525,7 +525,7 @@
 108,PH26,Pintor Murillo,Av. Departamental
 108,PH27,Juan Griego,Av. Departamental
 108,PH28,Diego de Meza,Av. Departamental
-108,PH29,Parada 2,Departamental
+108,PH29,Departamental,Santa Rosa
 108,PH30,Porto Alegre,Av. Departamental
 108,PH31,Montreal,Av. Departamental
 108,PH32,San Francisco,Av. Departamental
@@ -630,7 +630,7 @@
 109,PI208,Exposición,Ramón Subercaseaux
 109,PI209,Conferencia,Ramón Subercaseaux
 109,PI210,San Alfonso,Ramón Subercaseaux
-109,PA9,Parada 2,Rondizzoni
+109,PA9,Rondizzoni,Bascuñán
 109,PA10,Mirador,Bascuñán Guerrero
 109,PA695,Espiñeira,Bascuñán Guerrero
 109,PA11,Luis de La Peña,Bascuñán Guerrero
@@ -648,7 +648,7 @@
 109,PJ45,Parada 1,(M) Gruta de Lourdes
 109,PJ46,Parada 2,Consultorio Andes
 109,PJ47,Parada 2,Tropezón
-109,PJ48,Parada 4,S. Gutiérrez
+109,PJ48,S. Gutiérrez,W. Martínez
 109,PJ49,Julio Verne,Joaquín Walker Martínez
 109,PJ50,Puente Velásquez,Joaquín Walker Martínez
 109,PB76,Av. Jorge Hirmas,Apóstol Santiago
@@ -1142,7 +1142,7 @@
 117,PH48,Vecinal,Lo Ovalle
 117,PH49,Las Industrias,Lo Ovalle
 117,PH1443,Varas Mena,Av. Las Industrias
-117,PH1442,Parada 5,Departamental
+117,PH1442,Departamental,Las Industrias
 117,PH21,Av. Haydn,Av. Departamental
 117,PH22,Colegio Haydn,Av. Departamental
 117,PH672,Turquino,Av. Departamental
@@ -1332,7 +1332,7 @@
 119,PH334,Carlos Valdovinos,Clotario Blest
 119,PH335,El Carmelo,Bascuñán Guerrero
 119,PA287,Siria,Bascuñán Guerrero
-119,PA9,Parada 2,Rondizzoni
+119,PA9,Rondizzoni,Bascuñán
 119,PA10,Mirador,Bascuñán Guerrero
 119,PA695,Espiñeira,Bascuñán Guerrero
 119,PA11,Luis de La Peña,Bascuñán Guerrero
@@ -1389,7 +1389,7 @@
 120,PJ45,Parada 1,(M) Gruta de Lourdes
 120,PJ46,Parada 2,Consultorio Andes
 120,PJ47,Parada 2,Tropezón
-120,PJ48,Parada 4,S. Gutiérrez
+120,PJ48,S. Gutiérrez,W. Martínez
 120,PJ49,Julio Verne,Joaquín Walker Martínez
 120,PJ50,Puente Velásquez,Joaquín Walker Martínez
 120,PB76,Av. Jorge Hirmas,Apóstol Santiago
@@ -1541,19 +1541,19 @@
 201,PG66,Fernández Albano,Gran Avenida
 201,PG67,General Freire,Gran Avenida
 201,PG68,Santa Elisa,Gran Avenida
-201,PG69,Parada 12,P-17 Gran Avenida
+201,PG69,P-17 Gran Avenida,P-17 Gran Avenida
 201,PH124,Tannenbaum,Gran Avenida
 201,PH125,Ciudad del Niño,Gran Avenida
 201,PH126,León Prado,Gran Avenida
 201,PH127,Parada 2,Metro Departamental
 201,PH128,Pirámide,Gran Avenida
-201,PH129,Parada 2,P- 11 Gran Avenida
+201,PH129,P- 11 Gran Avenida,P- 11 Gran Avenida
 201,PH130,Santa Ester,Gran Avenida
 201,PH131,Avenida Berlín,Gran Avenida
-201,PH132,Parada 2,P-8 Gran Avenida
+201,PH132,P-8 Gran Avenida,P-8 Gran Avenida
 201,PH133,Parada 2,Muni. de San Miguel
 201,PH134,Hosp. Barros Luco,Gran Avenida
-201,PH135,Parada 2,P-3 Gran Avenida
+201,PH135,P-3 Gran Avenida,P-3 Gran Avenida
 201,PA63,Parada 2,Metro Franklin
 201,PA64,Franklin,San Diego
 201,PA65,Ñuble,San Diego
@@ -1581,15 +1581,15 @@
 201,PB273,Av. Francia,Av. Independencia
 201,PB219,General Saavedra,Av. Independencia
 201,PB220,Parada 4,Plaza Chacabuco
-201,PB221,Parada 4,Einstein
+201,PB221,Einstein,Independencia
 201,PB277,Pablo Urzúa,Av. Independencia
 201,PB278,José Pérez C.,Av. Independencia
-201,PB279,Parada 1,Dorsal
+201,PB279,Dorsal,Independencia
 201,PB280,Negrete,Av. Independencia
 201,PB281,Teniente Ponce 2,Av. Independencia
 201,PB227,Elcira Espinoza 1,Av. Independencia
 201,PB283,Doctor Asenjo,Av. Independencia
-201,PB284,Parada 2,Zapadores
+201,PB284,Zapadores,Independencia
 201,PB285,Juncal,Av. Independencia
 201,PB286,Paicaví,Av. Independencia
 201,PB232,1 Norte 1,Av. Independencia
@@ -1650,7 +1650,7 @@
 201e,PA80,Parada 2,(M) Toesca
 201e,PA81,Parada 5,(M) Los Héroes
 201e,PA82,Agustinas,Manuel Rodríguez
-201e,PA83,Parada 2,Teatinos
+201e,PA83,Teatinos,Compañía
 201e,PA75,Catedral,Bandera
 201e,PA87,Parada 7,Estación Mapocho
 201e,PB212,Lastra,La Paz
@@ -1659,10 +1659,10 @@
 201e,PB216,Profesor Zañartu,Av. Independencia
 201e,PB217,Santa María,Av. Independencia
 201e,PB220,Parada 4,Plaza Chacabuco
-201e,PB279,Parada 1,Dorsal
+201e,PB279,Dorsal,Independencia
 201e,PB281,Teniente Ponce 2,Av. Independencia
 201e,PB227,Elcira Espinoza 1,Av. Independencia
-201e,PB284,Parada 2,Zapadores
+201e,PB284,Zapadores,Independencia
 201e,PB232,1 Norte 1,Av. Independencia
 201e,PB233,José María Caro 1,Av. Independencia
 201e,PB236,Parada 2,Av. Independencia
@@ -1695,15 +1695,15 @@
 202,PB273,Av. Francia,Av. Independencia
 202,PB219,General Saavedra,Av. Independencia
 202,PB220,Parada 4,Plaza Chacabuco
-202,PB221,Parada 4,Einstein
+202,PB221,Einstein,Independencia
 202,PB277,Pablo Urzúa,Av. Independencia
 202,PB278,José Pérez C.,Av. Independencia
-202,PB279,Parada 1,Dorsal
+202,PB279,Dorsal,Independencia
 202,PB280,Negrete,Av. Independencia
 202,PB281,Teniente Ponce 2,Av. Independencia
 202,PB227,Elcira Espinoza 1,Av. Independencia
 202,PB283,Doctor Asenjo,Av. Independencia
-202,PB284,Parada 2,Zapadores
+202,PB284,Zapadores,Independencia
 202,PB285,Juncal,Av. Independencia
 202,PB286,Paicaví,Av. Independencia
 202,PB232,1 Norte 1,Av. Independencia
@@ -1724,10 +1724,10 @@
 202c,PB273,Av. Francia,Av. Independencia
 202c,PB219,General Saavedra,Av. Independencia
 202c,PB220,Parada 4,Plaza Chacabuco
-202c,PB221,Parada 4,Einstein
+202c,PB221,Einstein,Independencia
 202c,PB277,Pablo Urzúa,Av. Independencia
 202c,PB278,José Pérez C.,Av. Independencia
-202c,PB279,Parada 1,Dorsal
+202c,PB279,Dorsal,Independencia
 202c,PB280,Negrete,Av. Independencia
 202c,PB281,Teniente Ponce 2,Av. Independencia
 202c,PB227,Elcira Espinoza 1,Av. Independencia
@@ -1766,37 +1766,37 @@
 203,PG108,La Pradera,Venancia Leiva
 203,PG109,El Bosque,Venancia Leiva
 203,PG110,Galvarino,Venancia Leiva
-203,PE63,Parada 2,P- 30 Santa Rosa
+203,PE63,P- 30 Santa Rosa,P- 30 Santa Rosa
 203,PE71,Parada 2,Hosp. Padre Hurtado
-203,PE112,Parada 2,P- 28 Santa Rosa
-203,PE113,Parada 2,P- 26 Santa Rosa
+203,PE112,P- 28 Santa Rosa,P- 28 Santa Rosa
+203,PE113,P- 26 Santa Rosa,P- 26 Santa Rosa
 203,PE114,Parada 4,(M) Santa Rosa
-203,PE66,Parada 4,P- 23 Santa Rosa
-203,PE67,Parada 2,P- 22 Santa Rosa
-203,PE68,Parada 4,P- 20 Santa Rosa
-203,PE69,Parada 4,P- 19 Santa Rosa
-203,PE70,Parada 4,P- 18 Santa Rosa
-203,PH150,Parada 4,P- 16 Santa Rosa
-203,PH151,Parada 4,P- 14 Santa Rosa
-203,PH152,Parada 4,P- 13 Santa Rosa
-203,PH153,Parada 1,Departamental
-203,PH154,Parada 2,P- 11 Santa Rosa
-203,PH155,Parada 2,P- 9 1/2 Santa Rosa
-203,PH156,Parada 2,P- 9 Santa Rosa
-203,PH157,Parada 2,P- 8 Santa Rosa
-203,PH158,Parada 4,P- 6 Santa Rosa
+203,PE66,P- 23 Santa Rosa,P- 23 Santa Rosa
+203,PE67,P- 22 Santa Rosa,P- 22 Santa Rosa
+203,PE68,P- 20 Santa Rosa,P- 20 Santa Rosa
+203,PE69,P- 19 Santa Rosa,P- 19 Santa Rosa
+203,PE70,P- 18 Santa Rosa,P- 18 Santa Rosa
+203,PH150,P- 16 Santa Rosa,P- 16 Santa Rosa
+203,PH151,P- 14 Santa Rosa,P- 14 Santa Rosa
+203,PH152,P- 13 Santa Rosa,P- 13 Santa Rosa
+203,PH153,Departamental,Santa Rosa
+203,PH154,P- 11 Santa Rosa,P- 11 Santa Rosa
+203,PH155,P- 9 1/2 Santa Rosa,P- 9 1/2 Santa Rosa
+203,PH156,P- 9 Santa Rosa,P- 9 Santa Rosa
+203,PH157,P- 8 Santa Rosa,P- 8 Santa Rosa
+203,PH158,P- 6 Santa Rosa,P- 6 Santa Rosa
 203,PH159,Parada 2,Hosp. Trudeau
-203,PH160,Parada 2,P- 3 Santa Rosa
+203,PH160,P- 3 Santa Rosa,P- 3 Santa Rosa
 203,PH161,Parada 2,Muni. San Joaquín
 203,PA100,Parada 2,Persa Biobío
-203,PA101,Parada 2,Franklin
-203,PA102,Parada 2,Sgto. Aldea
-203,PA103,Parada 2,Miguel L. Prado
+203,PA101,Franklin,Santa Rosa
+203,PA102,Sgto. Aldea,Santa Rosa
+203,PA103,Miguel L. Prado,Santa Rosa
 203,PA104,Parada 2,Hosp. San Borja Arriarán
 203,PA105,Parada 2,Colegio María Auxiliadora
 203,PA106,Parada 2,Colegio Santa María
-203,PA107,Parada 2,Cóndor
-203,PA108,Parada 2,Eleuterio Ramírez
+203,PA107,Cóndor,Santa Rosa
+203,PA108,Eleuterio Ramírez,Santa Rosa
 203,PA109,Parada 8,(M) Santa Lucía
 203,PA111,Parada 2,Iglesia La Merced
 203,PA112,Parada 2,Casa de Los Velasco
@@ -1839,18 +1839,18 @@
 203e,PG105,Venancia Leiva,Almirante Latorre
 203e,PG107,Pedro Aguirre C.,Venancia Leiva
 203e,PG110,Galvarino,Venancia Leiva
-203e,PE63,Parada 2,P- 30 Santa Rosa
+203e,PE63,P- 30 Santa Rosa,P- 30 Santa Rosa
 203e,PE71,Parada 2,Hosp. Padre Hurtado
 203e,PE114,Parada 4,(M) Santa Rosa
-203e,PE68,Parada 4,P- 20 Santa Rosa
-203e,PH150,Parada 4,P- 16 Santa Rosa
-203e,PH153,Parada 1,Departamental
-203e,PH157,Parada 2,P- 8 Santa Rosa
+203e,PE68,P- 20 Santa Rosa,P- 20 Santa Rosa
+203e,PH150,P- 16 Santa Rosa,P- 16 Santa Rosa
+203e,PH153,Departamental,Santa Rosa
+203e,PH157,P- 8 Santa Rosa,P- 8 Santa Rosa
 203e,PH161,Parada 2,Muni. San Joaquín
-203e,PA101,Parada 2,Franklin
+203e,PA101,Franklin,Santa Rosa
 203e,PA104,Parada 2,Hosp. San Borja Arriarán
 203e,PA105,Parada 2,Colegio María Auxiliadora
-203e,PA107,Parada 2,Cóndor
+203e,PA107,Cóndor,Santa Rosa
 203e,PA109,Parada 8,(M) Santa Lucía
 203e,PA111,Parada 2,Iglesia La Merced
 203e,PA113,Parada 3,Mercado Central
@@ -1902,7 +1902,7 @@
 204,PE110,Padre E. Gumucio,Av. Las Industrias
 204,PE111,Lo Ovalle,Av. Las Industrias
 204,PH50,Varas Mena,Av. Las Industrias
-204,PH51,Parada 2,Departamental
+204,PH51,Departamental,Las Industrias
 204,PH174,Rafael Fontaura,Av. Las Industrias
 204,PH175,Ureta Cox,Av. Las Industrias
 204,PH176,Salvador Allende,Av. Las Industrias
@@ -1939,7 +1939,7 @@
 204e,PE107,La Serena,Linares
 204e,PE109,28 Oriente,Av. Las Industrias
 204e,PE111,Lo Ovalle,Av. Las Industrias
-204e,PH51,Parada 2,Departamental
+204e,PH51,Departamental,Las Industrias
 204e,PH176,Salvador Allende,Av. Las Industrias
 204e,PH178,Alc. P. Alarcón,Av. Las Industrias
 204e,PH180,Carlos Valdovinos,Av. Las Industrias
@@ -1973,44 +1973,44 @@
 205,PG129,Col. Nva. Nazaret,Gabriela
 205,PG130,Av. Juanita 1,Gabriela
 205,PG131,Av. Juanita 2,Gabriela
-205,PG132,Parada 4,P- 37 Santa Rosa
+205,PG132,P- 37 Santa Rosa,P- 37 Santa Rosa
 205,PG133,Parada 2,Plaza de La Pintana
-205,PG134,Parada 4,P- 35 Santa Rosa
+205,PG134,P- 35 Santa Rosa,P- 35 Santa Rosa
 205,PG135,Parada 4,Facultad de Veterinaria
 205,PG137,Parada 4,Facultad de Agronomía
-205,PG1666,Parada 2,P- 31 Santa Rosa
-205,PG1662,Parada 2,Sto. Tomás
-205,PE1312,Parada 4,P- 30 Santa Rosa
+205,PG1666,P- 31 Santa Rosa,P- 31 Santa Rosa
+205,PG1662,Sto. Tomás,Sta. Rosa
+205,PE1312,P- 30 Santa Rosa,P- 30 Santa Rosa
 205,PE1313,Parada 4,Hosp. Padre Hurtado
-205,PE1311,Parada 4,P- 28 Santa Rosa
-205,PE64,Parada 2,P- 27 Santa Rosa
+205,PE1311,P- 28 Santa Rosa,P- 28 Santa Rosa
+205,PE64,P- 27 Santa Rosa,P- 27 Santa Rosa
 205,PE65,Parada 3,(M) Santa Rosa
-205,PE115,Parada 2,P- 23 Santa Rosa
-205,PE116,Parada 4,P- 22 Santa Rosa
-205,PE117,Parada 2,P- 20 Santa Rosa
-205,PE118,Parada 2,P- 19 Santa Rosa
-205,PE119,Parada 2,P- 18 Santa Rosa
-205,PH195,Parada 2,P- 16 Santa Rosa
-205,PH196,Parada 2,P- 14 Santa Rosa
-205,PH197,Parada 2,P- 13 Santa Rosa
-205,PH198,Parada 4,Departamental
-205,PH199,Parada 4,P- 11 Santa Rosa
-205,PH200,Parada 4,P- 9 1/2 Santa Rosa
-205,PH201,Parada 4,P- 9 Santa Rosa
-205,PH202,Parada 4,P- 8 Santa Rosa
-205,PH203,Parada 2,P- 6 Santa Rosa
+205,PE115,P- 23 Santa Rosa,P- 23 Santa Rosa
+205,PE116,P- 22 Santa Rosa,P- 22 Santa Rosa
+205,PE117,P- 20 Santa Rosa,P- 20 Santa Rosa
+205,PE118,P- 19 Santa Rosa,P- 19 Santa Rosa
+205,PE119,P- 18 Santa Rosa,P- 18 Santa Rosa
+205,PH195,P- 16 Santa Rosa,P- 16 Santa Rosa
+205,PH196,P- 14 Santa Rosa,P- 14 Santa Rosa
+205,PH197,P- 13 Santa Rosa,P- 13 Santa Rosa
+205,PH198,Departamental,Santa Rosa
+205,PH199,P- 11 Santa Rosa,P- 11 Santa Rosa
+205,PH200,P- 9 1/2 Santa Rosa,P- 9 1/2 Santa Rosa
+205,PH201,P- 9 Santa Rosa,P- 9 Santa Rosa
+205,PH202,P- 8 Santa Rosa,P- 8 Santa Rosa
+205,PH203,P- 6 Santa Rosa,P- 6 Santa Rosa
 205,PH204,Parada 4,Hosp. Trudeau
-205,PH205,Parada 4,P- 3 Santa Rosa
+205,PH205,P- 3 Santa Rosa,P- 3 Santa Rosa
 205,PH206,Parada 4,Muni. San Joaquín
 205,PA146,Parada 4,Persa Biobío
-205,PA147,Parada 4,Franklin
-205,PA148,Parada 2,Ñuble
-205,PA149,Parada 2,Pedro Lagos
+205,PA147,Franklin,Santa Rosa
+205,PA148,Ñuble,Santa Rosa
+205,PA149,Pedro Lagos,Santa Rosa
 205,PA150,Parada 4,Hosp. San Borja Arriarán
 205,PA151,Parada 4,Colegio María Auxiliadora
-205,PA152,Parada 2,10 de Julio
-205,PA153,Parada 2,Santa Isabel
-205,PA154,Parada 2,Curicó
+205,PA152,10 de Julio,Santa Rosa
+205,PA153,Santa Isabel,Santa Rosa
+205,PA154,Curicó,Santa Rosa
 205c,PF93,Eyzaguirre,Balmaceda
 205c,PF94,21 de Mayo,Balmaceda
 205c,PF95,Eduardo Cordero,Balmaceda
@@ -2035,17 +2035,17 @@
 205c,PG129,Col. Nva. Nazaret,Gabriela
 205c,PG130,Av. Juanita 1,Gabriela
 205c,PG131,Av. Juanita 2,Gabriela
-205c,PG132,Parada 4,P- 37 Santa Rosa
+205c,PG132,P- 37 Santa Rosa,P- 37 Santa Rosa
 205c,PG133,Parada 2,Plaza de La Pintana
-205c,PG134,Parada 4,P- 35 Santa Rosa
+205c,PG134,P- 35 Santa Rosa,P- 35 Santa Rosa
 205c,PG135,Parada 4,Facultad de Veterinaria
 205c,PG137,Parada 4,Facultad de Agronomía
-205c,PG1666,Parada 2,P- 31 Santa Rosa
-205c,PG1662,Parada 2,Sto. Tomás
-205c,PE1312,Parada 4,P- 30 Santa Rosa
+205c,PG1666,P- 31 Santa Rosa,P- 31 Santa Rosa
+205c,PG1662,Sto. Tomás,Sta. Rosa
+205c,PE1312,P- 30 Santa Rosa,P- 30 Santa Rosa
 205c,PE1313,Parada 4,Hosp. Padre Hurtado
-205c,PE1311,Parada 4,P- 28 Santa Rosa
-205c,PE64,Parada 2,P- 27 Santa Rosa
+205c,PE1311,P- 28 Santa Rosa,P- 28 Santa Rosa
+205c,PE64,P- 27 Santa Rosa,P- 27 Santa Rosa
 205c,PE65,Parada 3,(M) Santa Rosa
 205e,PF94,21 de Mayo,Balmaceda
 205e,PF95,Eduardo Cordero,Balmaceda
@@ -2057,22 +2057,22 @@
 205e,PF109,Ejér. Libertador,Gabriela
 205e,PF111,Creta,Gabriela
 205e,PG130,Av. Juanita 1,Gabriela
-205e,PG132,Parada 4,P- 37 Santa Rosa
+205e,PG132,P- 37 Santa Rosa,P- 37 Santa Rosa
 205e,PG133,Parada 2,Plaza de La Pintana
 205e,PG135,Parada 4,Facultad de Veterinaria
 205e,PG137,Parada 4,Facultad de Agronomía
-205e,PG1662,Parada 2,Sto. Tomás
-205e,PE1312,Parada 4,P- 30 Santa Rosa
-205e,PE1311,Parada 4,P- 28 Santa Rosa
+205e,PG1662,Sto. Tomás,Sta. Rosa
+205e,PE1312,P- 30 Santa Rosa,P- 30 Santa Rosa
+205e,PE1311,P- 28 Santa Rosa,P- 28 Santa Rosa
 205e,PE65,Parada 3,(M) Santa Rosa
-205e,PE115,Parada 2,P- 23 Santa Rosa
-205e,PE119,Parada 2,P- 18 Santa Rosa
-205e,PH198,Parada 4,Departamental
-205e,PH202,Parada 4,P- 8 Santa Rosa
-205e,PA147,Parada 4,Franklin
+205e,PE115,P- 23 Santa Rosa,P- 23 Santa Rosa
+205e,PE119,P- 18 Santa Rosa,P- 18 Santa Rosa
+205e,PH198,Departamental,Santa Rosa
+205e,PH202,P- 8 Santa Rosa,P- 8 Santa Rosa
+205e,PA147,Franklin,Santa Rosa
 205e,PA150,Parada 4,Hosp. San Borja Arriarán
 205e,PA151,Parada 4,Colegio María Auxiliadora
-205e,PA153,Parada 2,Santa Isabel
+205e,PA153,Santa Isabel,Santa Rosa
 206,PG156,Sargento Aldea,Julio Chávez
 206,PG157,Tte. Luis Cruz M.,Lo Blanco
 206,PG158,San Francisco,Lo Blanco
@@ -2095,42 +2095,42 @@
 206,PG1279,Lo Martínez,Porto Alegre
 206,PG1722,A. Lincoln,Lo Martínez
 206,PG170,Patagonia,Lo Martínez
-206,PG171,Santa Rosa,P- 35 Santa Rosa
+206,PG171,P- 35 Santa Rosa,P- 35 Santa Rosa
 206,PG136,Parada 2,Facultad de Veterinaria
 206,PG1657,Parada 2,Facultad de Agronomía
-206,PG138,Parada 2,P- 31 Santa Rosa
-206,PG139,Parada 4,Sto. Tomás
-206,PE63,Parada 2,P- 30 Santa Rosa
+206,PG138,P- 31 Santa Rosa,P- 31 Santa Rosa
+206,PG139,Sto. Tomás,Sta. Rosa
+206,PE63,P- 30 Santa Rosa,P- 30 Santa Rosa
 206,PE71,Parada 2,Hosp. Padre Hurtado
-206,PE112,Parada 2,P- 28 Santa Rosa
-206,PE113,Parada 2,P- 26 Santa Rosa
+206,PE112,P- 28 Santa Rosa,P- 28 Santa Rosa
+206,PE113,P- 26 Santa Rosa,P- 26 Santa Rosa
 206,PE114,Parada 4,(M) Santa Rosa
-206,PE66,Parada 4,P- 23 Santa Rosa
-206,PE67,Parada 2,P- 22 Santa Rosa
-206,PE68,Parada 4,P- 20 Santa Rosa
-206,PE69,Parada 4,P- 19 Santa Rosa
-206,PE70,Parada 4,P- 18 Santa Rosa
-206,PH150,Parada 4,P- 16 Santa Rosa
-206,PH151,Parada 4,P- 14 Santa Rosa
-206,PH152,Parada 4,P- 13 Santa Rosa
-206,PH153,Parada 1,Departamental
-206,PH154,Parada 2,P- 11 Santa Rosa
-206,PH155,Parada 2,P- 9 1/2 Santa Rosa
-206,PH156,Parada 2,P- 9 Santa Rosa
-206,PH157,Parada 2,P- 8 Santa Rosa
-206,PH158,Parada 4,P- 6 Santa Rosa
+206,PE66,P- 23 Santa Rosa,P- 23 Santa Rosa
+206,PE67,P- 22 Santa Rosa,P- 22 Santa Rosa
+206,PE68,P- 20 Santa Rosa,P- 20 Santa Rosa
+206,PE69,P- 19 Santa Rosa,P- 19 Santa Rosa
+206,PE70,P- 18 Santa Rosa,P- 18 Santa Rosa
+206,PH150,P- 16 Santa Rosa,P- 16 Santa Rosa
+206,PH151,P- 14 Santa Rosa,P- 14 Santa Rosa
+206,PH152,P- 13 Santa Rosa,P- 13 Santa Rosa
+206,PH153,Departamental,Santa Rosa
+206,PH154,P- 11 Santa Rosa,P- 11 Santa Rosa
+206,PH155,P- 9 1/2 Santa Rosa,P- 9 1/2 Santa Rosa
+206,PH156,P- 9 Santa Rosa,P- 9 Santa Rosa
+206,PH157,P- 8 Santa Rosa,P- 8 Santa Rosa
+206,PH158,P- 6 Santa Rosa,P- 6 Santa Rosa
 206,PH159,Parada 2,Hosp. Trudeau
-206,PH160,Parada 2,P- 3 Santa Rosa
+206,PH160,P- 3 Santa Rosa,P- 3 Santa Rosa
 206,PH161,Parada 2,Muni. San Joaquín
 206,PA100,Parada 2,Persa Biobío
-206,PA101,Parada 2,Franklin
-206,PA102,Parada 2,Sgto. Aldea
-206,PA103,Parada 2,Miguel L. Prado
+206,PA101,Franklin,Santa Rosa
+206,PA102,Sgto. Aldea,Santa Rosa
+206,PA103,Miguel L. Prado,Santa Rosa
 206,PA104,Parada 2,Hosp. San Borja Arriarán
 206,PA105,Parada 2,Colegio María Auxiliadora
 206,PA106,Parada 2,Colegio Santa María
-206,PA107,Parada 2,Cóndor
-206,PA108,Parada 2,Eleuterio Ramírez
+206,PA107,Cóndor,Santa Rosa
+206,PA108,Eleuterio Ramírez,Santa Rosa
 206e,PG158,San Francisco,Lo Blanco
 206e,PG159,Daniel Rebolledo,San Francisco
 206e,PG160,Gral. B. Parada,San Francisco
@@ -2140,74 +2140,74 @@
 206e,PG582,Alberto Hurtado,Bernardino Parada
 206e,PG585,John Kennedy,Bernardino Parada
 206e,PG589,Porto Alegre,José Manuel Balmaceda
-206e,PG171,Santa Rosa,P- 35 Santa Rosa
+206e,PG171,P- 35 Santa Rosa,P- 35 Santa Rosa
 206e,PG1657,Parada 2,Facultad de Agronomía
-206e,PG139,Parada 4,Sto. Tomás
-206e,PE63,Parada 2,P- 30 Santa Rosa
+206e,PG139,Sto. Tomás,Sta. Rosa
+206e,PE63,P- 30 Santa Rosa,P- 30 Santa Rosa
 206e,PE71,Parada 2,Hosp. Padre Hurtado
 206e,PE114,Parada 4,(M) Santa Rosa
-206e,PE68,Parada 4,P- 20 Santa Rosa
-206e,PH150,Parada 4,P- 16 Santa Rosa
-206e,PH153,Parada 1,Departamental
-206e,PH157,Parada 2,P- 8 Santa Rosa
-206e,PA101,Parada 2,Franklin
+206e,PE68,P- 20 Santa Rosa,P- 20 Santa Rosa
+206e,PH150,P- 16 Santa Rosa,P- 16 Santa Rosa
+206e,PH153,Departamental,Santa Rosa
+206e,PH157,P- 8 Santa Rosa,P- 8 Santa Rosa
+206e,PA101,Franklin,Santa Rosa
 206e,PA104,Parada 2,Hosp. San Borja Arriarán
 206e,PA105,Parada 2,Colegio María Auxiliadora
-206e,PA107,Parada 2,Cóndor
+206e,PA107,Cóndor,Santa Rosa
 207,PG1655,San Pedro,Santa Rosa
 207,PF114,Punta Chilén,Santa Rosa
 207,PF587,Camino El Retiro,Santa Rosa
 207,PF116,Apóstol Bartolomé,Camino El Retiro
 207,PF117,Los Manzanos,Camino El Retiro
-207,PF118,Parada 2,P- 48 Santa Rosa
-207,PF120,Parada 2,P- 47 Santa Rosa
-207,PF121,Parada 2,P- 45 Santa Rosa
-207,PG190,Parada 2,P- 43 Santa Rosa
-207,PG191,Parada 2,P- 42 Santa Rosa
+207,PF118,P- 48 Santa Rosa,P- 48 Santa Rosa
+207,PF120,P- 47 Santa Rosa,P- 47 Santa Rosa
+207,PF121,P- 45 Santa Rosa,P- 45 Santa Rosa
+207,PG190,P- 43 Santa Rosa,P- 43 Santa Rosa
+207,PG191,P- 42 Santa Rosa,P- 42 Santa Rosa
 207,PG192,La Primavera,Santa Rosa
-207,PG193,Parada 2,P- 41 Santa Rosa
+207,PG193,P- 41 Santa Rosa,P- 41 Santa Rosa
 207,PG194,Batallón Chacabuco,Santa Rosa
-207,PG195,Parada 4,P- 38 Santa Rosa
+207,PG195,P- 38 Santa Rosa,P- 38 Santa Rosa
 207,PG133,Parada 2,Plaza de La Pintana
-207,PG134,Parada 4,P- 35 Santa Rosa
+207,PG134,P- 35 Santa Rosa,P- 35 Santa Rosa
 207,PG135,Parada 4,Facultad de Veterinaria
 207,PG137,Parada 4,Facultad de Agronomía
-207,PG1666,Parada 2,P- 31 Santa Rosa
-207,PG1662,Parada 2,Sto. Tomás
-207,PE1312,Parada 4,P- 30 Santa Rosa
+207,PG1666,P- 31 Santa Rosa,P- 31 Santa Rosa
+207,PG1662,Sto. Tomás,Sta. Rosa
+207,PE1312,P- 30 Santa Rosa,P- 30 Santa Rosa
 207,PE1313,Parada 4,Hosp. Padre Hurtado
-207,PE1311,Parada 4,P- 28 Santa Rosa
-207,PE64,Parada 2,P- 27 Santa Rosa
+207,PE1311,P- 28 Santa Rosa,P- 28 Santa Rosa
+207,PE64,P- 27 Santa Rosa,P- 27 Santa Rosa
 207,PE65,Parada 3,(M) Santa Rosa
-207,PE115,Parada 2,P- 23 Santa Rosa
-207,PE116,Parada 4,P- 22 Santa Rosa
-207,PE117,Parada 2,P- 20 Santa Rosa
-207,PE118,Parada 2,P- 19 Santa Rosa
-207,PE119,Parada 2,P- 18 Santa Rosa
-207,PH195,Parada 2,P- 16 Santa Rosa
-207,PH196,Parada 2,P- 14 Santa Rosa
-207,PH197,Parada 2,P- 13 Santa Rosa
-207,PH198,Parada 4,Departamental
-207,PH199,Parada 4,P- 11 Santa Rosa
-207,PH200,Parada 4,P- 9 1/2 Santa Rosa
-207,PH201,Parada 4,P- 9 Santa Rosa
-207,PH202,Parada 4,P- 8 Santa Rosa
-207,PH203,Parada 2,P- 6 Santa Rosa
+207,PE115,P- 23 Santa Rosa,P- 23 Santa Rosa
+207,PE116,P- 22 Santa Rosa,P- 22 Santa Rosa
+207,PE117,P- 20 Santa Rosa,P- 20 Santa Rosa
+207,PE118,P- 19 Santa Rosa,P- 19 Santa Rosa
+207,PE119,P- 18 Santa Rosa,P- 18 Santa Rosa
+207,PH195,P- 16 Santa Rosa,P- 16 Santa Rosa
+207,PH196,P- 14 Santa Rosa,P- 14 Santa Rosa
+207,PH197,P- 13 Santa Rosa,P- 13 Santa Rosa
+207,PH198,Departamental,Santa Rosa
+207,PH199,P- 11 Santa Rosa,P- 11 Santa Rosa
+207,PH200,P- 9 1/2 Santa Rosa,P- 9 1/2 Santa Rosa
+207,PH201,P- 9 Santa Rosa,P- 9 Santa Rosa
+207,PH202,P- 8 Santa Rosa,P- 8 Santa Rosa
+207,PH203,P- 6 Santa Rosa,P- 6 Santa Rosa
 207,PH204,Parada 4,Hosp. Trudeau
-207,PH205,Parada 4,P- 3 Santa Rosa
+207,PH205,P- 3 Santa Rosa,P- 3 Santa Rosa
 207,PH206,Parada 4,Muni. San Joaquín
 207,PA146,Parada 4,Persa Biobío
-207,PA147,Parada 4,Franklin
-207,PA148,Parada 2,Ñuble
-207,PA149,Parada 2,Pedro Lagos
+207,PA147,Franklin,Santa Rosa
+207,PA148,Ñuble,Santa Rosa
+207,PA149,Pedro Lagos,Santa Rosa
 207,PA150,Parada 4,Hosp. San Borja Arriarán
 207,PA151,Parada 4,Colegio María Auxiliadora
-207,PA152,Parada 2,10 de Julio
-207,PA153,Parada 2,Santa Isabel
-207,PA154,Parada 2,Curicó
+207,PA152,10 de Julio,Santa Rosa
+207,PA153,Santa Isabel,Santa Rosa
+207,PA154,Curicó,Santa Rosa
 207,PA156,Parada 1,(M) Santa Lucía
-207,PA114,Parada 2,Huérfanos
-207,PA159,Parada 2,Monjitas
+207,PA114,Huérfanos,Mac Iver
+207,PA159,Monjitas,Mac Iver
 207,PA160,Parada 2,Iglesia San Pedro
 207,PA161,Parada 1,Mercado Central
 207c,PG1655,San Pedro,Santa Rosa
@@ -2215,52 +2215,52 @@
 207c,PF587,Camino El Retiro,Santa Rosa
 207c,PF116,Apóstol Bartolomé,Camino El Retiro
 207c,PF117,Los Manzanos,Camino El Retiro
-207c,PF118,Parada 2,P- 48 Santa Rosa
-207c,PF120,Parada 2,P- 47 Santa Rosa
-207c,PF121,Parada 2,P- 45 Santa Rosa
-207c,PG190,Parada 2,P- 43 Santa Rosa
-207c,PG191,Parada 2,P- 42 Santa Rosa
+207c,PF118,P- 48 Santa Rosa,P- 48 Santa Rosa
+207c,PF120,P- 47 Santa Rosa,P- 47 Santa Rosa
+207c,PF121,P- 45 Santa Rosa,P- 45 Santa Rosa
+207c,PG190,P- 43 Santa Rosa,P- 43 Santa Rosa
+207c,PG191,P- 42 Santa Rosa,P- 42 Santa Rosa
 207c,PG192,La Primavera,Santa Rosa
-207c,PG193,Parada 2,P- 41 Santa Rosa
+207c,PG193,P- 41 Santa Rosa,P- 41 Santa Rosa
 207c,PG194,Batallón Chacabuco,Santa Rosa
-207c,PG195,Parada 4,P- 38 Santa Rosa
+207c,PG195,P- 38 Santa Rosa,P- 38 Santa Rosa
 207c,PG133,Parada 2,Plaza de La Pintana
-207c,PG134,Parada 4,P- 35 Santa Rosa
+207c,PG134,P- 35 Santa Rosa,P- 35 Santa Rosa
 207c,PG135,Parada 4,Facultad de Veterinaria
 207c,PG137,Parada 4,Facultad de Agronomía
-207c,PG1666,Parada 2,P- 31 Santa Rosa
-207c,PG1662,Parada 2,Sto. Tomás
-207c,PE1312,Parada 4,P- 30 Santa Rosa
+207c,PG1666,P- 31 Santa Rosa,P- 31 Santa Rosa
+207c,PG1662,Sto. Tomás,Sta. Rosa
+207c,PE1312,P- 30 Santa Rosa,P- 30 Santa Rosa
 207c,PE1313,Parada 4,Hosp. Padre Hurtado
-207c,PE1311,Parada 4,P- 28 Santa Rosa
-207c,PE64,Parada 2,P- 27 Santa Rosa
+207c,PE1311,P- 28 Santa Rosa,P- 28 Santa Rosa
+207c,PE64,P- 27 Santa Rosa,P- 27 Santa Rosa
 207c,PE65,Parada 3,(M) Santa Rosa
 207e,PG1655,San Pedro,Santa Rosa
 207e,PF114,Punta Chilén,Santa Rosa
 207e,PF587,Camino El Retiro,Santa Rosa
 207e,PF116,Apóstol Bartolomé,Camino El Retiro
-207e,PF118,Parada 2,P- 48 Santa Rosa
-207e,PF121,Parada 2,P- 45 Santa Rosa
-207e,PG193,Parada 2,P- 41 Santa Rosa
+207e,PF118,P- 48 Santa Rosa,P- 48 Santa Rosa
+207e,PF121,P- 45 Santa Rosa,P- 45 Santa Rosa
+207e,PG193,P- 41 Santa Rosa,P- 41 Santa Rosa
 207e,PG194,Batallón Chacabuco,Santa Rosa
 207e,PG133,Parada 2,Plaza de La Pintana
-207e,PG134,Parada 4,P- 35 Santa Rosa
+207e,PG134,P- 35 Santa Rosa,P- 35 Santa Rosa
 207e,PG135,Parada 4,Facultad de Veterinaria
 207e,PG137,Parada 4,Facultad de Agronomía
-207e,PG1662,Parada 2,Sto. Tomás
-207e,PE1312,Parada 4,P- 30 Santa Rosa
-207e,PE1311,Parada 4,P- 28 Santa Rosa
+207e,PG1662,Sto. Tomás,Sta. Rosa
+207e,PE1312,P- 30 Santa Rosa,P- 30 Santa Rosa
+207e,PE1311,P- 28 Santa Rosa,P- 28 Santa Rosa
 207e,PE65,Parada 3,(M) Santa Rosa
-207e,PE115,Parada 2,P- 23 Santa Rosa
-207e,PE119,Parada 2,P- 18 Santa Rosa
-207e,PH198,Parada 4,Departamental
-207e,PH202,Parada 4,P- 8 Santa Rosa
-207e,PA147,Parada 4,Franklin
+207e,PE115,P- 23 Santa Rosa,P- 23 Santa Rosa
+207e,PE119,P- 18 Santa Rosa,P- 18 Santa Rosa
+207e,PH198,Departamental,Santa Rosa
+207e,PH202,P- 8 Santa Rosa,P- 8 Santa Rosa
+207e,PA147,Franklin,Santa Rosa
 207e,PA150,Parada 4,Hosp. San Borja Arriarán
 207e,PA151,Parada 4,Colegio María Auxiliadora
-207e,PA153,Parada 2,Santa Isabel
+207e,PA153,Santa Isabel,Santa Rosa
 207e,PA156,Parada 1,(M) Santa Lucía
-207e,PA114,Parada 2,Huérfanos
+207e,PA114,Huérfanos,Mac Iver
 207e,PA161,Parada 1,Mercado Central
 208,PA109,Parada 8,(M) Santa Lucía
 208,PA111,Parada 2,Iglesia La Merced
@@ -2326,76 +2326,76 @@
 209,PF231,San Julián,Eyzaguirre
 209,PF232,Pje. Las Abejas,Eyzaguirre
 209,PF233,Santa Rosa,Eyzaguirre
-209,PF120,Parada 2,P- 47 Santa Rosa
-209,PF121,Parada 2,P- 45 Santa Rosa
-209,PG190,Parada 2,P- 43 Santa Rosa
-209,PG191,Parada 2,P- 42 Santa Rosa
+209,PF120,P- 47 Santa Rosa,P- 47 Santa Rosa
+209,PF121,P- 45 Santa Rosa,P- 45 Santa Rosa
+209,PG190,P- 43 Santa Rosa,P- 43 Santa Rosa
+209,PG191,P- 42 Santa Rosa,P- 42 Santa Rosa
 209,PG192,La Primavera,Santa Rosa
-209,PG193,Parada 2,P- 41 Santa Rosa
+209,PG193,P- 41 Santa Rosa,P- 41 Santa Rosa
 209,PG194,Batallón Chacabuco,Santa Rosa
-209,PG195,Parada 4,P- 38 Santa Rosa
+209,PG195,P- 38 Santa Rosa,P- 38 Santa Rosa
 209,PG133,Parada 2,Plaza de La Pintana
-209,PG134,Parada 4,P- 35 Santa Rosa
+209,PG134,P- 35 Santa Rosa,P- 35 Santa Rosa
 209,PG135,Parada 4,Facultad de Veterinaria
 209,PG137,Parada 4,Facultad de Agronomía
-209,PG1666,Parada 2,P- 31 Santa Rosa
-209,PG1662,Parada 2,Sto. Tomás
-209,PE1312,Parada 4,P- 30 Santa Rosa
+209,PG1666,P- 31 Santa Rosa,P- 31 Santa Rosa
+209,PG1662,Sto. Tomás,Sta. Rosa
+209,PE1312,P- 30 Santa Rosa,P- 30 Santa Rosa
 209,PE1313,Parada 4,Hosp. Padre Hurtado
-209,PE1311,Parada 4,P- 28 Santa Rosa
-209,PE64,Parada 2,P- 27 Santa Rosa
+209,PE1311,P- 28 Santa Rosa,P- 28 Santa Rosa
+209,PE64,P- 27 Santa Rosa,P- 27 Santa Rosa
 209,PE65,Parada 3,(M) Santa Rosa
-209,PE115,Parada 2,P- 23 Santa Rosa
-209,PE116,Parada 4,P- 22 Santa Rosa
-209,PE117,Parada 2,P- 20 Santa Rosa
-209,PE118,Parada 2,P- 19 Santa Rosa
-209,PE119,Parada 2,P- 18 Santa Rosa
-209,PH195,Parada 2,P- 16 Santa Rosa
-209,PH196,Parada 2,P- 14 Santa Rosa
-209,PH197,Parada 2,P- 13 Santa Rosa
-209,PH198,Parada 4,Departamental
-209,PH199,Parada 4,P- 11 Santa Rosa
-209,PH200,Parada 4,P- 9 1/2 Santa Rosa
-209,PH201,Parada 4,P- 9 Santa Rosa
-209,PH202,Parada 4,P- 8 Santa Rosa
-209,PH203,Parada 2,P- 6 Santa Rosa
+209,PE115,P- 23 Santa Rosa,P- 23 Santa Rosa
+209,PE116,P- 22 Santa Rosa,P- 22 Santa Rosa
+209,PE117,P- 20 Santa Rosa,P- 20 Santa Rosa
+209,PE118,P- 19 Santa Rosa,P- 19 Santa Rosa
+209,PE119,P- 18 Santa Rosa,P- 18 Santa Rosa
+209,PH195,P- 16 Santa Rosa,P- 16 Santa Rosa
+209,PH196,P- 14 Santa Rosa,P- 14 Santa Rosa
+209,PH197,P- 13 Santa Rosa,P- 13 Santa Rosa
+209,PH198,Departamental,Santa Rosa
+209,PH199,P- 11 Santa Rosa,P- 11 Santa Rosa
+209,PH200,P- 9 1/2 Santa Rosa,P- 9 1/2 Santa Rosa
+209,PH201,P- 9 Santa Rosa,P- 9 Santa Rosa
+209,PH202,P- 8 Santa Rosa,P- 8 Santa Rosa
+209,PH203,P- 6 Santa Rosa,P- 6 Santa Rosa
 209,PH204,Parada 4,Hosp. Trudeau
-209,PH205,Parada 4,P- 3 Santa Rosa
+209,PH205,P- 3 Santa Rosa,P- 3 Santa Rosa
 209,PH206,Parada 4,Muni. San Joaquín
 209,PA146,Parada 4,Persa Biobío
-209,PA147,Parada 4,Franklin
-209,PA148,Parada 2,Ñuble
-209,PA149,Parada 2,Pedro Lagos
+209,PA147,Franklin,Santa Rosa
+209,PA148,Ñuble,Santa Rosa
+209,PA149,Pedro Lagos,Santa Rosa
 209,PA150,Parada 4,Hosp. San Borja Arriarán
 209,PA151,Parada 4,Colegio María Auxiliadora
-209,PA152,Parada 2,10 de Julio
-209,PA153,Parada 2,Santa Isabel
-209,PA154,Parada 2,Curicó
+209,PA152,10 de Julio,Santa Rosa
+209,PA153,Santa Isabel,Santa Rosa
+209,PA154,Curicó,Santa Rosa
 209e,PF920,Belén,Juanita Oriente
 209e,PF940,Bartok,Weber
 209e,PF946,Juanita,Del Empresario
 209e,PF534,Sgto. Menadier,Juanita
 209e,PF228,Sierra Nevada,Eyzaguirre
 209e,PF233,Santa Rosa,Eyzaguirre
-209e,PF121,Parada 2,P- 45 Santa Rosa
-209e,PG193,Parada 2,P- 41 Santa Rosa
+209e,PF121,P- 45 Santa Rosa,P- 45 Santa Rosa
+209e,PG193,P- 41 Santa Rosa,P- 41 Santa Rosa
 209e,PG194,Batallón Chacabuco,Santa Rosa
 209e,PG133,Parada 2,Plaza de La Pintana
-209e,PG134,Parada 4,P- 35 Santa Rosa
+209e,PG134,P- 35 Santa Rosa,P- 35 Santa Rosa
 209e,PG135,Parada 4,Facultad de Veterinaria
 209e,PG137,Parada 4,Facultad de Agronomía
-209e,PG1662,Parada 2,Sto. Tomás
-209e,PE1312,Parada 4,P- 30 Santa Rosa
-209e,PE1311,Parada 4,P- 28 Santa Rosa
+209e,PG1662,Sto. Tomás,Sta. Rosa
+209e,PE1312,P- 30 Santa Rosa,P- 30 Santa Rosa
+209e,PE1311,P- 28 Santa Rosa,P- 28 Santa Rosa
 209e,PE65,Parada 3,(M) Santa Rosa
-209e,PE115,Parada 2,P- 23 Santa Rosa
-209e,PE119,Parada 2,P- 18 Santa Rosa
-209e,PH198,Parada 4,Departamental
-209e,PH202,Parada 4,P- 8 Santa Rosa
-209e,PA147,Parada 4,Franklin
+209e,PE115,P- 23 Santa Rosa,P- 23 Santa Rosa
+209e,PE119,P- 18 Santa Rosa,P- 18 Santa Rosa
+209e,PH198,Departamental,Santa Rosa
+209e,PH202,P- 8 Santa Rosa,P- 8 Santa Rosa
+209e,PA147,Franklin,Santa Rosa
 209e,PA150,Parada 4,Hosp. San Borja Arriarán
 209e,PA151,Parada 4,Colegio María Auxiliadora
-209e,PA153,Parada 2,Santa Isabel
+209e,PA153,Santa Isabel,Santa Rosa
 210,PF93,Eyzaguirre,Balmaceda
 210,PF126,21 de Mayo,Balmaceda
 210,PF95,Eduardo Cordero,Balmaceda
@@ -2413,11 +2413,11 @@
 210,PF128,Jacarandá,Av. Concha y Toro
 210,PF129,(M) Elisa Correa,Av. Concha y Toro
 210,PF130,S. Sanfuentes,Av. Concha y Toro
-210,PE140,Parada 2,P- 26 Vicuña Mackenna
+210,PE140,P- 26 Vicuña Mackenna,P- 26 Vicuña Mackenna
 210,PE141,Parada 2,(M) Los Quillayes
-210,PE142,Parada 2,P- 24 Vicuña Mackenna
+210,PE142,P- 24 Vicuña Mackenna,P- 24 Vicuña Mackenna
 210,PE143,Parada 2,(M) José de la Estrella
-210,PE144,Parada 2,P- 22 Vicuña Mackenna
+210,PE144,P- 22 Vicuña Mackenna,P- 22 Vicuña Mackenna
 210,PE145,(M) Trinidad R.,Av. Vicuña Mackenna
 210,PE146,Santa Amalia,Av. Vicuña Mackenna
 210,PE147,Enrique Olivares,Av. Vicuña Mackenna
@@ -2594,26 +2594,26 @@
 212,PG246,Est. La Pintana,Lo Blanco
 212,PG247,Santa Rosa 1,Lo Blanco
 212,PG248,Santa Rosa 2,Lo Blanco
-212,PG196,Parada 2,P- 38 Santa Rosa
+212,PG196,P- 38 Santa Rosa,P- 38 Santa Rosa
 212,PG1659,Parada 4,Plaza de La Pintana
-212,PG1665,Parada 2,P- 35 Santa Rosa
+212,PG1665,P- 35 Santa Rosa,P- 35 Santa Rosa
 212,PG136,Parada 2,Facultad de Veterinaria
 212,PG1657,Parada 2,Facultad de Agronomía
-212,PG138,Parada 2,P- 31 Santa Rosa
-212,PG139,Parada 4,Sto. Tomás
-212,PE63,Parada 2,P- 30 Santa Rosa
+212,PG138,P- 31 Santa Rosa,P- 31 Santa Rosa
+212,PG139,Sto. Tomás,Sta. Rosa
+212,PE63,P- 30 Santa Rosa,P- 30 Santa Rosa
 212,PE71,Parada 2,Hosp. Padre Hurtado
-212,PE112,Parada 2,P- 28 Santa Rosa
-212,PE113,Parada 2,P- 26 Santa Rosa
+212,PE112,P- 28 Santa Rosa,P- 28 Santa Rosa
+212,PE113,P- 26 Santa Rosa,P- 26 Santa Rosa
 212,PE114,Parada 4,(M) Santa Rosa
-212,PE66,Parada 4,P- 23 Santa Rosa
-212,PE67,Parada 2,P- 22 Santa Rosa
-212,PE68,Parada 4,P- 20 Santa Rosa
-212,PE69,Parada 4,P- 19 Santa Rosa
-212,PE70,Parada 4,P- 18 Santa Rosa
-212,PH150,Parada 4,P- 16 Santa Rosa
-212,PH151,Parada 4,P- 14 Santa Rosa
-212,PH1430,Parada 3,Departamental
+212,PE66,P- 23 Santa Rosa,P- 23 Santa Rosa
+212,PE67,P- 22 Santa Rosa,P- 22 Santa Rosa
+212,PE68,P- 20 Santa Rosa,P- 20 Santa Rosa
+212,PE69,P- 19 Santa Rosa,P- 19 Santa Rosa
+212,PE70,P- 18 Santa Rosa,P- 18 Santa Rosa
+212,PH150,P- 16 Santa Rosa,P- 16 Santa Rosa
+212,PH151,P- 14 Santa Rosa,P- 14 Santa Rosa
+212,PH1430,Departamental,Santa Rosa
 212,PH17,Infocap,Av. Departamental
 212,PH18,Juan Planas,Av. Departamental
 212,PH19,Benozzo Gozzoli,Av. Departamental
@@ -2645,9 +2645,9 @@
 212,PD100,UMCE 2,José Pedro Alessandri
 212,PD101,Castillo Velasco,José Pedro Alessandri
 212,PD235,Dublé Almeyda,José Pedro Alessandri
-212,PD103,Parada 1,Irarrázaval
-212,PD104,Alonso de Ercilla,Chile-España
-212,PD237,Av. Simón Bolívar,Chile-España
+212,PD103,Irarrázaval,Macul
+212,PD104,Chile-España,Chile-España
+212,PD237,Chile-España,Chile-España
 212,PD106,Hernán Cortés,General Artigas
 212,PC29,Diego de Almagro,Los Leones
 212,PC30,Bustos,Los Leones
@@ -2677,7 +2677,7 @@
 213,PE132,(M) Trinidad R.,Av. Vicuña Mackenna
 213,PE134,Parada 1,(M) José de la Estrella
 213,PE136,Parada 1,(M) Quillayes
-213,PE849,Parada 3,P- 26 Vicuña Mackenna
+213,PE849,P- 26 Vicuña Mackenna,P- 26 Vicuña Mackenna
 213,PE851,Parada 6,(M) Elisa Correa
 213,PF746,Parada 5,(M) Sótero Del Río
 213,PF744,Gabriela Poniente 2,Av. Concha y Toro
@@ -2694,9 +2694,9 @@
 214e,PA61,Franklin,Nataniel Cox
 214e,PA62,Parada 1,Metro Franklin
 214e,PH111,Hosp. Barros Luco,Gran Avenida
-214e,PH113,Parada 1,P-8 Gran Avenida
+214e,PH113,P-8 Gran Avenida,P-8 Gran Avenida
 214e,PH115,Leonidas Vial,Gran Avenida
-214e,PH117,Parada 1,P- 11 Gran Avenida
+214e,PH117,P- 11 Gran Avenida,P- 11 Gran Avenida
 214e,PH119,Parada 3,(M) Departamental
 214e,PH121,Ciudad del Niño,Gran Avenida
 214e,PH221,1ª Transversal,Octava Avenida
@@ -2738,15 +2738,15 @@
 216,PD188,Castillo Velasco,Av. Vespucio
 216,PE172,Parada 1,Santa Rosa
 216,PG219,Parada 6,Santa Rosa
-216,PG254,Parada 1,P- 26 Santa Rosa
-216,PE1294,Parada 3,P- 28 Santa Rosa
+216,PG254,P- 26 Santa Rosa,P- 26 Santa Rosa
+216,PE1294,P- 28 Santa Rosa,P- 28 Santa Rosa
 216,PG97,Parada 3,Hosp. Padre Hurtado
-216,PG1127,Parada 3,P- 30 Santa Rosa
-216,PG99,Parada 3,Sto. Tomás
-216,PG1664,Parada 3,P- 31 Santa Rosa
+216,PG1127,P- 30 Santa Rosa,P- 30 Santa Rosa
+216,PG99,Sto. Tomás,Sta. Rosa
+216,PG1664,P- 31 Santa Rosa,P- 31 Santa Rosa
 216,PG1667,Parada 3,Facultad de Agronomía
 216,PG120,Parada 3,Facultad de Veterinaria
-216,PG122,Parada 3,P- 35 Santa Rosa
+216,PG122,P- 35 Santa Rosa,P- 35 Santa Rosa
 216,PG141,Juan XXIII,Lo Martínez
 216,PG142,Patagonia,Lo Martínez
 216,PG1721,Gral. Belgrano,Lo Martínez
@@ -2802,19 +2802,19 @@
 223,PG66,Fernández Albano,Gran Avenida
 223,PG67,General Freire,Gran Avenida
 223,PG68,Santa Elisa,Gran Avenida
-223,PG69,Parada 12,P-17 Gran Avenida
+223,PG69,P-17 Gran Avenida,P-17 Gran Avenida
 223,PH124,Tannenbaum,Gran Avenida
 223,PH125,Ciudad del Niño,Gran Avenida
 223,PH126,León Prado,Gran Avenida
 223,PH127,Parada 2,Metro Departamental
 223,PH128,Pirámide,Gran Avenida
-223,PH129,Parada 2,P- 11 Gran Avenida
+223,PH129,P- 11 Gran Avenida,P- 11 Gran Avenida
 223,PH130,Santa Ester,Gran Avenida
 223,PH131,Avenida Berlín,Gran Avenida
-223,PH132,Parada 2,P-8 Gran Avenida
+223,PH132,P-8 Gran Avenida,P-8 Gran Avenida
 223,PH133,Parada 2,Muni. de San Miguel
 223,PH134,Hosp. Barros Luco,Gran Avenida
-223,PH135,Parada 2,P-3 Gran Avenida
+223,PH135,P-3 Gran Avenida,P-3 Gran Avenida
 223,PA63,Parada 2,Metro Franklin
 223,PA64,Franklin,San Diego
 223,PA65,Ñuble,San Diego
@@ -2841,15 +2841,15 @@
 223,PB273,Av. Francia,Av. Independencia
 223,PB219,General Saavedra,Av. Independencia
 223,PB220,Parada 4,Plaza Chacabuco
-223,PB221,Parada 4,Einstein
+223,PB221,Einstein,Independencia
 223,PB277,Pablo Urzúa,Av. Independencia
 223,PB278,José Pérez C.,Av. Independencia
-223,PB279,Parada 1,Dorsal
+223,PB279,Dorsal,Independencia
 223,PB280,Negrete,Av. Independencia
 223,PB281,Teniente Ponce 2,Av. Independencia
 223,PB227,Elcira Espinoza 1,Av. Independencia
 223,PB283,Doctor Asenjo,Av. Independencia
-223,PB284,Parada 2,Zapadores
+223,PB284,Zapadores,Independencia
 223,PB360,Tupungato,Diego Silva Henríquez
 223,PB361,Los Andes,Diego Silva Henríquez
 223,PB362,Puntiagudo,Diego Silva Henríquez
@@ -2929,8 +2929,8 @@
 224,PD100,UMCE 2,José Pedro Alessandri
 224,PD101,Castillo Velasco,José Pedro Alessandri
 224,PD235,Dublé Almeyda,José Pedro Alessandri
-224,PD103,Parada 1,Irarrázaval
-224,PD237,Av. Simón Bolívar,Chile-España
+224,PD103,Irarrázaval,Macul
+224,PD237,Chile-España,Chile-España
 224c,PF62,Luis Matte L.,Ejército Libertador
 224c,PF63,Puquios,Ejército Libertador
 224c,PF843,Chacabuco,Ejército Libertador
@@ -3073,11 +3073,11 @@
 226,PF747,Del Caribe,Av. Concha y Toro
 226,PF748,Parada 6,(M) Sótero del Río
 226,PF824,Gabriela Oriente,Av. Concha y Toro
-226,PF770,Parada 4,Jacarandá
+226,PF770,Jacarandá,Concha y Toro
 226,PF764,Parada 2,(M) Elisa Correa
-226,PE854,Parada 4,P- 26 Vicuña Mackenna
+226,PE854,P- 26 Vicuña Mackenna,P- 26 Vicuña Mackenna
 226,PE852,Parada 4,(M) Los Quillayes
-226,PE853,Parada 4,P- 24 Vicuña Mackenna
+226,PE853,P- 24 Vicuña Mackenna,P- 24 Vicuña Mackenna
 226,PE1264,San José de La Est.,Joaquín Tocornal
 226,PE247,Av. Vicuña Mackenna,San José de La Estrella
 226,PE248,Quemchi,San José de La Estrella
@@ -3115,19 +3115,19 @@
 226,PH246,San Petersburgo,Lo Ovalle
 226,PH247,María,Lo Ovalle
 226,PH248,Esmeralda,Lo Ovalle
-226,PH249,Parada 4,P-17 Gran Avenida
+226,PH249,P-17 Gran Avenida,P-17 Gran Avenida
 226,PH124,Tannenbaum,Gran Avenida
 226,PH125,Ciudad del Niño,Gran Avenida
 226,PH126,León Prado,Gran Avenida
 226,PH127,Parada 2,Metro Departamental
 226,PH128,Pirámide,Gran Avenida
-226,PH129,Parada 2,P- 11 Gran Avenida
+226,PH129,P- 11 Gran Avenida,P- 11 Gran Avenida
 226,PH130,Santa Ester,Gran Avenida
 226,PH131,Avenida Berlín,Gran Avenida
-226,PH132,Parada 2,P-8 Gran Avenida
+226,PH132,P-8 Gran Avenida,P-8 Gran Avenida
 226,PH133,Parada 2,Muni. de San Miguel
 226,PH134,Hosp. Barros Luco,Gran Avenida
-226,PH135,Parada 2,P-3 Gran Avenida
+226,PH135,P-3 Gran Avenida,P-3 Gran Avenida
 226,PA63,Parada 2,Metro Franklin
 226,PA64,Franklin,San Diego
 226,PA65,Ñuble,San Diego
@@ -3150,7 +3150,7 @@
 227,PG274,Nueva 2,Lo Ovalle
 227,PG289,Pasaje 2,Lo Ovalle
 227,PG278,Ciencias,Lo Ovalle
-227,PG279,Parada 3,P-17 Gran Avenida
+227,PG279,P-17 Gran Avenida,P-17 Gran Avenida
 227,PG280,Liceo P. La Cisterna,Lo Ovalle
 227,PG281,Angamos,Lo Ovalle
 227,PG282,María,Lo Ovalle
@@ -3159,22 +3159,22 @@
 227,PG285,San Francisco,Lo Ovalle
 227,PG286,Alvear,Lo Ovalle
 227,PG287,Rivadavia,Lo Ovalle
-227,PH195,Parada 2,P- 16 Santa Rosa
-227,PH196,Parada 2,P- 14 Santa Rosa
-227,PH197,Parada 2,P- 13 Santa Rosa
-227,PH198,Parada 4,Departamental
-227,PH199,Parada 4,P- 11 Santa Rosa
-227,PH200,Parada 4,P- 9 1/2 Santa Rosa
-227,PH201,Parada 4,P- 9 Santa Rosa
-227,PH202,Parada 4,P- 8 Santa Rosa
-227,PH203,Parada 2,P- 6 Santa Rosa
+227,PH195,P- 16 Santa Rosa,P- 16 Santa Rosa
+227,PH196,P- 14 Santa Rosa,P- 14 Santa Rosa
+227,PH197,P- 13 Santa Rosa,P- 13 Santa Rosa
+227,PH198,Departamental,Santa Rosa
+227,PH199,P- 11 Santa Rosa,P- 11 Santa Rosa
+227,PH200,P- 9 1/2 Santa Rosa,P- 9 1/2 Santa Rosa
+227,PH201,P- 9 Santa Rosa,P- 9 Santa Rosa
+227,PH202,P- 8 Santa Rosa,P- 8 Santa Rosa
+227,PH203,P- 6 Santa Rosa,P- 6 Santa Rosa
 227,PH204,Parada 4,Hosp. Trudeau
-227,PH205,Parada 4,P- 3 Santa Rosa
+227,PH205,P- 3 Santa Rosa,P- 3 Santa Rosa
 227,PH206,Parada 4,Muni. San Joaquín
 227,PA146,Parada 4,Persa Biobío
-227,PA147,Parada 4,Franklin
-227,PA148,Parada 2,Ñuble
-227,PA149,Parada 2,Pedro Lagos
+227,PA147,Franklin,Santa Rosa
+227,PA148,Ñuble,Santa Rosa
+227,PA149,Pedro Lagos,Santa Rosa
 227,PA206,Pje. Marta,Miguel León Prado
 227,PA207,Carmen,Miguel León Prado
 227,PA208,Sierra Bella,Miguel León Prado
@@ -3191,7 +3191,7 @@
 227,PD334,Carlos Aldunate,Av. Irarrázaval
 227,PD335,Pedro de Valdivia,Av. Irarrázaval
 227,PD336,Fernández Concha,Av. Irarrázaval
-227,PD337,Parada 4,Av. Irarrázaval
+227,PD337,Av. Irarrázaval,Macul
 227,PD338,Humberto Trucco,Av. Irarrázaval
 227,PD339,Santa Julia,Av. Irarrázaval
 227,PD340,Juan Moya,Av. Irarrázaval
@@ -3251,19 +3251,19 @@
 229,PG66,Fernández Albano,Gran Avenida
 229,PG67,General Freire,Gran Avenida
 229,PG68,Santa Elisa,Gran Avenida
-229,PG69,Parada 12,P-17 Gran Avenida
+229,PG69,P-17 Gran Avenida,P-17 Gran Avenida
 229,PH124,Tannenbaum,Gran Avenida
 229,PH125,Ciudad del Niño,Gran Avenida
 229,PH126,León Prado,Gran Avenida
 229,PH127,Parada 2,Metro Departamental
 229,PH128,Pirámide,Gran Avenida
-229,PH129,Parada 2,P- 11 Gran Avenida
+229,PH129,P- 11 Gran Avenida,P- 11 Gran Avenida
 229,PH130,Santa Ester,Gran Avenida
 229,PH131,Avenida Berlín,Gran Avenida
-229,PH132,Parada 2,P-8 Gran Avenida
+229,PH132,P-8 Gran Avenida,P-8 Gran Avenida
 229,PH133,Parada 2,Muni. de San Miguel
 229,PH134,Hosp. Barros Luco,Gran Avenida
-229,PH135,Parada 2,P-3 Gran Avenida
+229,PH135,P-3 Gran Avenida,P-3 Gran Avenida
 229,PA63,Parada 2,Metro Franklin
 229,PA64,Franklin,San Diego
 229,PA65,Ñuble,San Diego
@@ -3310,19 +3310,19 @@
 301,PG66,Fernández Albano,Gran Avenida
 301,PG67,General Freire,Gran Avenida
 301,PG68,Santa Elisa,Gran Avenida
-301,PG69,Parada 12,P-17 Gran Avenida
+301,PG69,P-17 Gran Avenida,P-17 Gran Avenida
 301,PH124,Tannenbaum,Gran Avenida
 301,PH125,Ciudad del Niño,Gran Avenida
 301,PH126,León Prado,Gran Avenida
 301,PH127,Parada 2,Metro Departamental
 301,PH128,Pirámide,Gran Avenida
-301,PH129,Parada 2,P- 11 Gran Avenida
+301,PH129,P- 11 Gran Avenida,P- 11 Gran Avenida
 301,PH130,Santa Ester,Gran Avenida
 301,PH131,Avenida Berlín,Gran Avenida
-301,PH132,Parada 2,P-8 Gran Avenida
+301,PH132,P-8 Gran Avenida,P-8 Gran Avenida
 301,PH133,Parada 2,Muni. de San Miguel
 301,PH134,Hosp. Barros Luco,Gran Avenida
-301,PH135,Parada 2,P-3 Gran Avenida
+301,PH135,P-3 Gran Avenida,P-3 Gran Avenida
 301,PA63,Parada 2,Metro Franklin
 301,PA64,Franklin,San Diego
 301,PA65,Ñuble,San Diego
@@ -3415,7 +3415,7 @@
 301e,PG385,Alejandro Guzmán,Los Morros
 301e,PG61,Parada 8,(M) La Cisterna
 301e,PG65,(M) El Parrón,Gran Avenida
-301e,PG69,Parada 12,P-17 Gran Avenida
+301e,PG69,P-17 Gran Avenida,P-17 Gran Avenida
 301e,PH127,Parada 2,Metro Departamental
 301e,PH130,Santa Ester,Gran Avenida
 301e,PH134,Hosp. Barros Luco,Gran Avenida
@@ -3514,9 +3514,9 @@
 303,PA692,Parada 2,(M) U. Católica
 303,PA43,Agustinas,Miraflores
 303,PA44,Merced,Miraflores
-303,PA261,Parada 2,San Antonio
+303,PA261,San Antonio,Santo Domingo
 303,PA262,Parada 2,(M) Plaza de Armas
-303,PA263,Parada 2,Morandé
+303,PA263,Morandé,Santo Domingo
 303,PA699,Amunátegui,Santo Domingo
 303,PA303,Parada 1,(M) Santa Ana
 303,PA245,Teatro Teletón,Manuel Rodríguez
@@ -3530,7 +3530,7 @@
 303,PB435,Dgo. Santa María,Pdte. Eduardo Frei M.
 303,PB436,Terminal de Flores,Pdte. Eduardo Frei M.
 303,PB437,B. de Saravia,Pdte. Eduardo Frei M.
-303,PB1559,Parada 1,Norte Sur
+303,PB1559,Norte Sur,Dorsal
 303,PB439,El Olivo 1,Pdte. Eduardo Frei M.
 303,PB440,El Olivo 2,Pdte. Eduardo Frei M.
 303,PB441,Unión,Pdte. Eduardo Frei M.
@@ -3540,13 +3540,13 @@
 303,PB445,José María Caro,Pdte. Eduardo Frei M.
 303,PB446,Altura 5900,Pdte. Eduardo Frei M.
 303,PB448,Manuel A. Matta 2,Senador Jaime Guzmán
-303,PB449,Parada 4,Zañartu
-303,PB450,Parada 2,El Parque
-303,PB451,Parada 2,El Tebo
-303,PB452,Parada 4,4 Oriente
-303,PB453,Parada 4,Lo Cruzat
-303,PB454,Parada 2,Pedro Lira
-303,PB455,Parada 2,De La Cosecha
+303,PB449,Zañartu,Manuel A. Matta
+303,PB450,El Parque,Manuel A. Matta
+303,PB451,El Tebo,Manuel A. Matta
+303,PB452,4 Oriente,Manuel A. Matta
+303,PB453,Lo Cruzat,Manuel A. Matta
+303,PB454,Pedro Lira,Manuel A. Matta
+303,PB455,De La Cosecha,Manuel A. Matta
 303,PB456,Parada 4,Mall San Valentín
 303,PB457,Plaza Quilicura,Lib. Bdo. O'Higgins
 303,PB458,Los Carrera,José Francisco Vergara
@@ -3569,7 +3569,7 @@
 303c,PB435,Dgo. Santa María,Pdte. Eduardo Frei M.
 303c,PB436,Terminal de Flores,Pdte. Eduardo Frei M.
 303c,PB437,B. de Saravia,Pdte. Eduardo Frei M.
-303c,PB1559,Parada 1,Norte Sur
+303c,PB1559,Norte Sur,Dorsal
 303c,PB439,El Olivo 1,Pdte. Eduardo Frei M.
 303c,PB440,El Olivo 2,Pdte. Eduardo Frei M.
 303c,PB441,Unión,Pdte. Eduardo Frei M.
@@ -3579,13 +3579,13 @@
 303c,PB445,José María Caro,Pdte. Eduardo Frei M.
 303c,PB446,Altura 5900,Pdte. Eduardo Frei M.
 303c,PB448,Manuel A. Matta 2,Senador Jaime Guzmán
-303c,PB449,Parada 4,Zañartu
-303c,PB450,Parada 2,El Parque
-303c,PB451,Parada 2,El Tebo
-303c,PB452,Parada 4,4 Oriente
-303c,PB453,Parada 4,Lo Cruzat
-303c,PB454,Parada 2,Pedro Lira
-303c,PB455,Parada 2,De La Cosecha
+303c,PB449,Zañartu,Manuel A. Matta
+303c,PB450,El Parque,Manuel A. Matta
+303c,PB451,El Tebo,Manuel A. Matta
+303c,PB452,4 Oriente,Manuel A. Matta
+303c,PB453,Lo Cruzat,Manuel A. Matta
+303c,PB454,Pedro Lira,Manuel A. Matta
+303c,PB455,De La Cosecha,Manuel A. Matta
 303c,PB456,Parada 4,Mall San Valentín
 303c,PB457,Plaza Quilicura,Lib. Bdo. O'Higgins
 303c,PB458,Los Carrera,José Francisco Vergara
@@ -3600,7 +3600,7 @@
 303e,PA244,Parada 9,Metro Santa Ana
 303e,PB469,Alcalde Guzmán,Caletera Vespucio
 303e,PB571,Cachagua,Lo Campino
-303e,PB453,Parada 4,Lo Cruzat
+303e,PB453,Lo Cruzat,Manuel A. Matta
 303e,PB477,Parada 2,Mall San Valentín
 303e,PB458,Los Carrera,José Francisco Vergara
 303e,PB641,San Lucas,San Luis
@@ -3613,10 +3613,10 @@
 307,PC145,Parada 3,Plaza Italia
 307,PA258,Parada 4,Parque Forestal
 307,PA259,Parada 4,(M) Bellas Artes
-307,PA260,Parada 2,Miraflores
-307,PA261,Parada 2,San Antonio
+307,PA260,Miraflores,Santo Domingo
+307,PA261,San Antonio,Santo Domingo
 307,PA262,Parada 2,(M) Plaza de Armas
-307,PA263,Parada 2,Morandé
+307,PA263,Morandé,Santo Domingo
 307,PA699,Amunátegui,Santo Domingo
 307,PA303,Parada 1,(M) Santa Ana
 307,PA245,Teatro Teletón,Manuel Rodríguez
@@ -3630,7 +3630,7 @@
 307,PB435,Dgo. Santa María,Pdte. Eduardo Frei M.
 307,PB436,Terminal de Flores,Pdte. Eduardo Frei M.
 307,PB437,B. de Saravia,Pdte. Eduardo Frei M.
-307,PB1559,Parada 1,Norte Sur
+307,PB1559,Norte Sur,Dorsal
 307,PB439,El Olivo 1,Pdte. Eduardo Frei M.
 307,PB440,El Olivo 2,Pdte. Eduardo Frei M.
 307,PB441,Unión,Pdte. Eduardo Frei M.
@@ -3641,11 +3641,11 @@
 307,PB446,Altura 5900,Pdte. Eduardo Frei M.
 307,PB1237,Carampangue,Senador Jaime Guzmán
 307,PB448,Manuel A. Matta 2,Senador Jaime Guzmán
-307,PB449,Parada 4,Zañartu
-307,PB450,Parada 2,El Parque
-307,PB451,Parada 2,El Tebo
-307,PB452,Parada 4,4 Oriente
-307,PB453,Parada 4,Lo Cruzat
+307,PB449,Zañartu,Manuel A. Matta
+307,PB450,El Parque,Manuel A. Matta
+307,PB451,El Tebo,Manuel A. Matta
+307,PB452,4 Oriente,Manuel A. Matta
+307,PB453,Lo Cruzat,Manuel A. Matta
 307,PB552,Alc. Jorge Indo,Lo Cruzat
 307,PB553,Las Torres,Lo Cruzat
 307,PB554,Lo Marcoleta,Lo Cruzat
@@ -3667,13 +3667,13 @@
 307e,PA171,Av. Vicuña Mackenna,Barón P. de Coubertin
 307e,PC145,Parada 3,Plaza Italia
 307e,PA258,Parada 4,Parque Forestal
-307e,PA261,Parada 2,San Antonio
+307e,PA261,San Antonio,Santo Domingo
 307e,PA303,Parada 1,(M) Santa Ana
 307e,PB1237,Carampangue,Senador Jaime Guzmán
 307e,PB1056,La Conquista 1,Carampangue
 307e,PB1057,La Conquista 2,Carampangue
 307e,PB1058,Lo Campino,Carampangue
-307e,PB453,Parada 4,Lo Cruzat
+307e,PB453,Lo Cruzat,Manuel A. Matta
 307e,PB553,Las Torres,Lo Cruzat
 307e,PB554,Lo Marcoleta,Lo Cruzat
 307e,PB555,Salvador de Bahía,Lo Cruzat
@@ -3701,15 +3701,15 @@
 308,PB273,Av. Francia,Av. Independencia
 308,PB219,General Saavedra,Av. Independencia
 308,PB220,Parada 4,Plaza Chacabuco
-308,PB221,Parada 4,Einstein
+308,PB221,Einstein,Independencia
 308,PB277,Pablo Urzúa,Av. Independencia
 308,PB278,José Pérez C.,Av. Independencia
-308,PB279,Parada 1,Dorsal
+308,PB279,Dorsal,Independencia
 308,PB280,Negrete,Av. Independencia
 308,PB281,Teniente Ponce 2,Av. Independencia
 308,PB227,Elcira Espinoza 1,Av. Independencia
 308,PB283,Doctor Asenjo,Av. Independencia
-308,PB284,Parada 2,Zapadores
+308,PB284,Zapadores,Independencia
 308,PB285,Juncal,Av. Independencia
 308,PB286,Paicaví,Av. Independencia
 308,PB232,1 Norte 1,Av. Independencia
@@ -3722,10 +3722,10 @@
 308,PB591,Limarí,Lo Campino
 308,PB532,Carampangue,Lo Campino
 308,PB651,Manuel A. Matta,Lo Campino
-308,PB452,Parada 4,4 Oriente
-308,PB453,Parada 4,Lo Cruzat
-308,PB454,Parada 2,Pedro Lira
-308,PB455,Parada 2,De La Cosecha
+308,PB452,4 Oriente,Manuel A. Matta
+308,PB453,Lo Cruzat,Manuel A. Matta
+308,PB454,Pedro Lira,Manuel A. Matta
+308,PB455,De La Cosecha,Manuel A. Matta
 308,PB456,Parada 4,Mall San Valentín
 308,PB520,Pje. Los Torneros,Manuel Antonio Matta
 308,PB521,Linares,Manuel Antonio Matta
@@ -3758,10 +3758,10 @@
 314,PC145,Parada 3,Plaza Italia
 314,PA258,Parada 4,Parque Forestal
 314,PA259,Parada 4,(M) Bellas Artes
-314,PA260,Parada 2,Miraflores
-314,PA261,Parada 2,San Antonio
+314,PA260,Miraflores,Santo Domingo
+314,PA261,San Antonio,Santo Domingo
 314,PA262,Parada 2,(M) Plaza de Armas
-314,PA263,Parada 2,Morandé
+314,PA263,Morandé,Santo Domingo
 314,PA699,Amunátegui,Santo Domingo
 314,PA303,Parada 1,(M) Santa Ana
 314,PA245,Teatro Teletón,Manuel Rodríguez
@@ -3775,7 +3775,7 @@
 314,PB435,Dgo. Santa María,Pdte. Eduardo Frei M.
 314,PB436,Terminal de Flores,Pdte. Eduardo Frei M.
 314,PB437,B. de Saravia,Pdte. Eduardo Frei M.
-314,PB1559,Parada 1,Norte Sur
+314,PB1559,Norte Sur,Dorsal
 314,PB439,El Olivo 1,Pdte. Eduardo Frei M.
 314,PB440,El Olivo 2,Pdte. Eduardo Frei M.
 314,PB441,Unión,Pdte. Eduardo Frei M.
@@ -3815,8 +3815,8 @@
 315e,PB591,Limarí,Lo Campino
 315e,PB532,Carampangue,Lo Campino
 315e,PB651,Manuel A. Matta,Lo Campino
-315e,PB452,Parada 4,4 Oriente
-315e,PB453,Parada 4,Lo Cruzat
+315e,PB452,4 Oriente,Manuel A. Matta
+315e,PB453,Lo Cruzat,Manuel A. Matta
 315e,PB552,Alc. Jorge Indo,Lo Cruzat
 315e,PB553,Las Torres,Lo Cruzat
 315e,PB554,Lo Marcoleta,Lo Cruzat
@@ -3897,9 +3897,9 @@
 401,PI220,Chile,Av. Los Pajaritos
 401,PI221,Maipú,Av. Los Pajaritos
 401,PI419,Parada 10,(M) Plaza de Maipú
-401,PI420,Parada 1,R. Ayala
-401,PI422,Parada 1,F. Riesco
-401,PI423,Parada 1,V. Reyes
+401,PI420,R. Ayala,Pajaritos
+401,PI422,F. Riesco,Pajaritos
+401,PI423,V. Reyes,Pajaritos
 401,PI424,San Ramón,Nueva O´Higgins
 401,PI425,Santa Elena,Nueva O´Higgins
 401,PI426,Nueva San Martín,Santa Elena
@@ -3917,7 +3917,7 @@
 402,PA304,San Pablo,Teatinos
 402,PA269,Teatro Teletón,Rosas
 402,PA246,Riquelme,Rosas
-402,PA247,Parada 2,Brasil
+402,PA247,Brasil,Rosas
 402,PA248,Ricardo Cumming,Rosas
 402,PA249,García Reyes,Rosas
 402,PA250,Cueto,Rosas
@@ -3930,27 +3930,27 @@
 402,PJ140,Coronel Robles,Martínez de Rozas
 402,PJ141,Bismarck,Martínez de Rozas
 402,PJ142,Alejandro Fierro,Santa Genoveva
-402,PJ143,Parada 2,Carahue
-402,PJ144,Parada 2,Calle 3
+402,PJ143,Carahue,San Pablo
+402,PJ144,Calle 3,San Pablo
 402,PJ145,Parada 2,(M) Blanqueado
 402,PJ953,Casilda,San Pablo
 402,PJ146,Necochea,(M) San Pablo
 402,PJ147,Parada 1,(M) Lo Prado
 402,PJ148,San Germán 2,(M) San Pablo
 402,PJ149,Parada 7,(M) San Pablo
-402,PJ150,Parada 2,Los Canelos
-402,PJ151,Parada 2,Los Lirios
-402,PJ152,Parada 2,Gabriela Mistral
+402,PJ150,Los Canelos,San Pablo
+402,PJ151,Los Lirios,San Pablo
+402,PJ152,Gabriela Mistral,San Pablo
 402,PJ153,Parada 1,(M) Pudahuel
-402,PJ154,Parada 2,Los Ediles
-402,PJ155,Parada 2,Liceo C-87
-402,PJ156,Parada 2,San Pablo
-402,PJ157,Parada 4,Sargento Aldea
+402,PJ154,Los Ediles,San Pablo
+402,PJ155,Liceo C-87,Liceo C-87
+402,PJ156,San Pablo,La Estrella
+402,PJ157,Sargento Aldea,San Pablo
 402,PJ158,Parada 2,Parroquia San Luis
 402,PJ159,Parada 4,Consultorio Pudahuel Poniente
-402,PJ160,Parada 2,Serrano
-402,PJ161,Parada 2,El Tranque
-402,PJ162,Parada 2,Vespucio
+402,PJ160,Serrano,San Pablo
+402,PJ161,El Tranque,San Pablo
+402,PJ162,Vespucio,San Pablo
 402,PJ1726,Rotonda San Pablo,San Pablo
 403,PD738,Campo Militar,Camino Internacional
 403,PD440,Quillagua,Talinay
@@ -3975,7 +3975,7 @@
 403,PD315,Agustín Vigorena,Av. Irarrázaval
 403,PD316,Pedro Torres,Av. Irarrázaval
 403,PD317,Jorge Washington,Av. Irarrázaval
-403,PD453,Parada 2,Irarrázaval
+403,PD453,Irarrázaval,Macul
 403,PD319,Villaseca,Av. Irarrázaval
 403,PD320,Marchant Pereira,Av. Irarrázaval
 403,PD321,Garín,Av. Irarrázaval
@@ -4017,7 +4017,7 @@
 403c,PD315,Agustín Vigorena,Av. Irarrázaval
 403c,PD316,Pedro Torres,Av. Irarrázaval
 403c,PD317,Jorge Washington,Av. Irarrázaval
-403c,PD453,Parada 2,Irarrázaval
+403c,PD453,Irarrázaval,Macul
 403c,PD319,Villaseca,Av. Irarrázaval
 403c,PD320,Marchant Pereira,Av. Irarrázaval
 403c,PD321,Garín,Av. Irarrázaval
@@ -4037,8 +4037,8 @@
 403c,PA363,Parada 8,Metro U. Católica
 403c,PA170,Parada 6,Plaza Italia
 404,PA300,Parada 9,Estación Mapocho
-404,PA364,Parada 1,Esmeralda
-404,PA195,Parada 1,Monjitas
+404,PA364,Esmeralda,San Antonio
+404,PA195,Monjitas,San Antonio
 404,PA162,Parada 1,Teatro Municipal
 404,PA345,Parada 4,(M) U. de Chile
 404,PA365,Parada 3,(M) La Moneda
@@ -4204,7 +4204,7 @@
 406,PA4,Erasmo Escala,Matucana
 406,PA5,Huérfanos,Matucana
 406,PA6,Compañía,Matucana
-406,PA8,Parada 2,Sto. Domingo
+406,PA8,Sto. Domingo,Matucana
 406,PA432,San Pablo 2,Matucana
 406,PJ137,Patricio Lynch,Martínez de Rozas
 406,PJ138,Manuel Rivas V.,Martínez de Rozas
@@ -4213,27 +4213,27 @@
 406,PJ141,Bismarck,Martínez de Rozas
 406,PJ142,Alejandro Fierro,Santa Genoveva
 406,PJ183,Av. San Pablo,Santa Genoveva
-406,PJ143,Parada 2,Carahue
-406,PJ144,Parada 2,Calle 3
+406,PJ143,Carahue,San Pablo
+406,PJ144,Calle 3,San Pablo
 406,PJ145,Parada 2,(M) Blanqueado
 406,PJ953,Casilda,San Pablo
 406,PJ146,Necochea,(M) San Pablo
 406,PJ147,Parada 1,(M) Lo Prado
 406,PJ148,San Germán 2,(M) San Pablo
 406,PJ149,Parada 7,(M) San Pablo
-406,PJ150,Parada 2,Los Canelos
-406,PJ151,Parada 2,Los Lirios
-406,PJ152,Parada 2,Gabriela Mistral
+406,PJ150,Los Canelos,San Pablo
+406,PJ151,Los Lirios,San Pablo
+406,PJ152,Gabriela Mistral,San Pablo
 406,PJ153,Parada 1,(M) Pudahuel
-406,PJ154,Parada 2,Los Ediles
-406,PJ155,Parada 2,Liceo C-87
-406,PJ156,Parada 2,San Pablo
-406,PJ157,Parada 4,Sargento Aldea
+406,PJ154,Los Ediles,San Pablo
+406,PJ155,Liceo C-87,Liceo C-87
+406,PJ156,San Pablo,La Estrella
+406,PJ157,Sargento Aldea,San Pablo
 406,PJ158,Parada 2,Parroquia San Luis
 406,PJ159,Parada 4,Consultorio Pudahuel Poniente
-406,PJ160,Parada 2,Serrano
-406,PJ161,Parada 2,El Tranque
-406,PJ162,Parada 2,Vespucio
+406,PJ160,Serrano,San Pablo
+406,PJ161,El Tranque,San Pablo
+406,PJ162,Vespucio,San Pablo
 406,PJ1726,Rotonda San Pablo,San Pablo
 406c,PC290,San F. de Asís,Nueva Las Condes
 406c,PC292,Col. Mayflower,Av. Las Condes
@@ -4313,24 +4313,24 @@
 407,PJ1731,Díaz Sagredo,Santo Domingo
 407,PJ189,Barros Arana,Santo Domingo
 407,PJ255,Parada 2,Liceo Vicente P. Rosales
-407,PJ190,Parada 2,Radal
+407,PJ190,Radal,San Pablo
 407,PJ145,Parada 2,(M) Blanqueado
 407,PJ953,Casilda,San Pablo
 407,PJ146,Necochea,(M) San Pablo
 407,PJ147,Parada 1,(M) Lo Prado
 407,PJ148,San Germán 2,(M) San Pablo
 407,PJ149,Parada 7,(M) San Pablo
-407,PJ150,Parada 2,Los Canelos
-407,PJ151,Parada 2,Los Lirios
-407,PJ152,Parada 2,Gabriela Mistral
+407,PJ150,Los Canelos,San Pablo
+407,PJ151,Los Lirios,San Pablo
+407,PJ152,Gabriela Mistral,San Pablo
 407,PJ1571,Parada 9,(M) Pudahuel
-407,PJ154,Parada 2,Los Ediles
-407,PJ155,Parada 2,Liceo C-87
-407,PJ156,Parada 2,San Pablo
-407,PJ157,Parada 4,Sargento Aldea
+407,PJ154,Los Ediles,San Pablo
+407,PJ155,Liceo C-87,Liceo C-87
+407,PJ156,San Pablo,La Estrella
+407,PJ157,Sargento Aldea,San Pablo
 407,PJ158,Parada 2,Parroquia San Luis
 407,PJ159,Parada 4,Consultorio Pudahuel Poniente
-407,PJ160,Parada 2,Serrano
+407,PJ160,Serrano,San Pablo
 407,PJ373,Camino Del Bajo,El Tranque
 407,PJ374,Morro de Arica,El Tranque
 407,PJ375,La Campana,El Tranque
@@ -4959,7 +4959,7 @@
 422,PA4,Erasmo Escala,Matucana
 422,PA5,Huérfanos,Matucana
 422,PA6,Compañía,Matucana
-422,PA8,Parada 2,Sto. Domingo
+422,PA8,Sto. Domingo,Matucana
 422,PA432,San Pablo 2,Matucana
 422,PJ137,Patricio Lynch,Martínez de Rozas
 422,PJ138,Manuel Rivas V.,Martínez de Rozas
@@ -4968,22 +4968,22 @@
 422,PJ141,Bismarck,Martínez de Rozas
 422,PJ142,Alejandro Fierro,Santa Genoveva
 422,PJ183,Av. San Pablo,Santa Genoveva
-422,PJ143,Parada 2,Carahue
-422,PJ144,Parada 2,Calle 3
+422,PJ143,Carahue,San Pablo
+422,PJ144,Calle 3,San Pablo
 422,PJ145,Parada 2,(M) Blanqueado
 422,PJ953,Casilda,San Pablo
 422,PJ146,Necochea,(M) San Pablo
 422,PJ147,Parada 1,(M) Lo Prado
 422,PJ148,San Germán 2,(M) San Pablo
 422,PJ149,Parada 7,(M) San Pablo
-422,PJ150,Parada 2,Los Canelos
-422,PJ151,Parada 2,Los Lirios
-422,PJ152,Parada 2,Gabriela Mistral
+422,PJ150,Los Canelos,San Pablo
+422,PJ151,Los Lirios,San Pablo
+422,PJ152,Gabriela Mistral,San Pablo
 422,PJ1571,Parada 9,(M) Pudahuel
-422,PJ154,Parada 2,Los Ediles
-422,PJ155,Parada 2,Liceo C-87
-422,PJ156,Parada 2,San Pablo
-422,PJ157,Parada 4,Sargento Aldea
+422,PJ154,Los Ediles,San Pablo
+422,PJ155,Liceo C-87,Liceo C-87
+422,PJ156,San Pablo,La Estrella
+422,PJ157,Sargento Aldea,San Pablo
 422,PJ158,Parada 2,Parroquia San Luis
 422,PJ159,Parada 4,Consultorio Pudahuel Poniente
 422,PJ1709,Mapocho,Federico Errázuriz
@@ -5136,17 +5136,17 @@
 425,PB516,Versalles,Av. Vespucio
 425,PB517,Mall Plaza Norte,Av. Vespucio
 425,PB185,Paso Independencia,Av. Vespucio
-425,PB518,Parada 1,Independencia
+425,PB518,Independencia,Vespucio
 425,PB519,Pas. Sur,Caletera Vespucio
 425,PB1237,Carampangue,Senador Jaime Guzmán
 425,PB448,Manuel A. Matta 2,Senador Jaime Guzmán
-425,PB470,Parada 2,Zañartu
-425,PB471,Parada 2,Las Parcelas
-425,PB472,Parada 2,Lo Campino
-425,PB473,Parada 2,4 Oriente
-425,PB474,Parada 2,Lo Cruzat
-425,PB475,Parada 2,De La Medialuna
-425,PB476,Parada 2,Del Sauce
+425,PB470,Zañartu,Manuel A. Matta
+425,PB471,Las Parcelas,Manuel A. Matta
+425,PB472,Lo Campino,Manuel A. Matta
+425,PB473,4 Oriente,Manuel A. Matta
+425,PB474,Lo Cruzat,Manuel A. Matta
+425,PB475,De La Medialuna,Manuel A. Matta
+425,PB476,Del Sauce,Manuel A. Matta
 425,PB477,Parada 2,Mall San Valentín
 425,PB520,Pje. Los Torneros,Manuel Antonio Matta
 425,PB521,Linares,Manuel Antonio Matta
@@ -5174,10 +5174,10 @@
 425c,PB591,Limarí,Lo Campino
 425c,PB532,Carampangue,Lo Campino
 425c,PB651,Manuel A. Matta,Lo Campino
-425c,PB473,Parada 2,4 Oriente
-425c,PB474,Parada 2,Lo Cruzat
-425c,PB475,Parada 2,De La Medialuna
-425c,PB476,Parada 2,Del Sauce
+425c,PB473,4 Oriente,Manuel A. Matta
+425c,PB474,Lo Cruzat,Manuel A. Matta
+425c,PB475,De La Medialuna,Manuel A. Matta
+425c,PB476,Del Sauce,Manuel A. Matta
 425c,PB477,Parada 2,Mall San Valentín
 425c,PB520,Pje. Los Torneros,Manuel Antonio Matta
 425c,PB521,Linares,Manuel Antonio Matta
@@ -5244,7 +5244,7 @@
 426,PA4,Erasmo Escala,Matucana
 426,PA5,Huérfanos,Matucana
 426,PA6,Compañía,Matucana
-426,PA8,Parada 2,Sto. Domingo
+426,PA8,Sto. Domingo,Matucana
 426,PA432,San Pablo 2,Matucana
 426,PJ137,Patricio Lynch,Martínez de Rozas
 426,PJ138,Manuel Rivas V.,Martínez de Rozas
@@ -5253,27 +5253,27 @@
 426,PJ141,Bismarck,Martínez de Rozas
 426,PJ142,Alejandro Fierro,Santa Genoveva
 426,PJ183,Av. San Pablo,Santa Genoveva
-426,PJ143,Parada 2,Carahue
-426,PJ144,Parada 2,Calle 3
+426,PJ143,Carahue,San Pablo
+426,PJ144,Calle 3,San Pablo
 426,PJ145,Parada 2,(M) Blanqueado
 426,PJ953,Casilda,San Pablo
 426,PJ146,Necochea,(M) San Pablo
 426,PJ147,Parada 1,(M) Lo Prado
 426,PJ148,San Germán 2,(M) San Pablo
 426,PJ149,Parada 7,(M) San Pablo
-426,PJ150,Parada 2,Los Canelos
-426,PJ151,Parada 2,Los Lirios
-426,PJ152,Parada 2,Gabriela Mistral
+426,PJ150,Los Canelos,San Pablo
+426,PJ151,Los Lirios,San Pablo
+426,PJ152,Gabriela Mistral,San Pablo
 426,PJ153,Parada 1,(M) Pudahuel
-426,PJ154,Parada 2,Los Ediles
-426,PJ155,Parada 2,Liceo C-87
-426,PJ156,Parada 2,San Pablo
-426,PJ157,Parada 4,Sargento Aldea
+426,PJ154,Los Ediles,San Pablo
+426,PJ155,Liceo C-87,Liceo C-87
+426,PJ156,San Pablo,La Estrella
+426,PJ157,Sargento Aldea,San Pablo
 426,PJ158,Parada 2,Parroquia San Luis
 426,PJ159,Parada 4,Consultorio Pudahuel Poniente
-426,PJ160,Parada 2,Serrano
-426,PJ161,Parada 2,El Tranque
-426,PJ162,Parada 2,Vespucio
+426,PJ160,Serrano,San Pablo
+426,PJ161,El Tranque,San Pablo
+426,PJ162,Vespucio,San Pablo
 426,PJ1726,Rotonda San Pablo,San Pablo
 426c,PC434,El Gabino,Lo Barnechea
 426c,PC1088,Nahuel,El Gabino
@@ -5367,26 +5367,26 @@
 427,PJ1731,Díaz Sagredo,Santo Domingo
 427,PJ189,Barros Arana,Santo Domingo
 427,PJ255,Parada 2,Liceo Vicente P. Rosales
-427,PJ190,Parada 2,Radal
+427,PJ190,Radal,San Pablo
 427,PJ145,Parada 2,(M) Blanqueado
 427,PJ953,Casilda,San Pablo
 427,PJ146,Necochea,(M) San Pablo
 427,PJ147,Parada 1,(M) Lo Prado
 427,PJ148,San Germán 2,(M) San Pablo
 427,PJ149,Parada 7,(M) San Pablo
-427,PJ150,Parada 2,Los Canelos
-427,PJ151,Parada 2,Los Lirios
-427,PJ152,Parada 2,Gabriela Mistral
+427,PJ150,Los Canelos,San Pablo
+427,PJ151,Los Lirios,San Pablo
+427,PJ152,Gabriela Mistral,San Pablo
 427,PJ153,Parada 1,(M) Pudahuel
-427,PJ154,Parada 2,Los Ediles
-427,PJ155,Parada 2,Liceo C-87
-427,PJ156,Parada 2,San Pablo
-427,PJ157,Parada 4,Sargento Aldea
+427,PJ154,Los Ediles,San Pablo
+427,PJ155,Liceo C-87,Liceo C-87
+427,PJ156,San Pablo,La Estrella
+427,PJ157,Sargento Aldea,San Pablo
 427,PJ158,Parada 2,Parroquia San Luis
 427,PJ159,Parada 4,Consultorio Pudahuel Poniente
-427,PJ160,Parada 2,Serrano
-427,PJ161,Parada 2,El Tranque
-427,PJ162,Parada 2,Vespucio
+427,PJ160,Serrano,San Pablo
+427,PJ161,El Tranque,San Pablo
+427,PJ162,Vespucio,San Pablo
 427,PJ1726,Rotonda San Pablo,San Pablo
 427c,PC1059,Parada 1,Hosp. Dipreca
 427c,PC308,Marisol,Vital Apoquindo
@@ -5447,7 +5447,7 @@
 428,PJ109,La Travesía,Caletera Vespucio
 428,PJ110,Pas. El Maitén,Caletera Vespucio
 428,PJ111,Ruta 68,Caletera Vespucio
-428,PJ821,Parada 4,Vespucio
+428,PJ821,Vespucio,San Pablo
 428,PJ1745,Río Clarillo,Américo Vespucio
 428,PJ1746,Los Maitenes,Américo Vespucio
 428,PJ846,Vespucio,Armando Cortinez
@@ -5466,14 +5466,14 @@
 428,PB404,Los Carrera,José Francisco Vergara
 428,PB405,Muni. Quilicura,José Francisco Vergara
 428,PB406,Manuel A. Matta,Lib. Bdo. O'Higgins
-428,PB407,Parada 1,Del Sauce
-428,PB496,Parada 1,Arturo Prat
-428,PB497,Parada 1,Pedro Lira
-428,PB498,Parada 1,Lo Cruzat
-428,PB499,Parada 1,4 Oriente
-428,PB500,Parada 3,Las Parcelas
-428,PB501,Parada 1,El Parque
-428,PB502,Parada 1,Zañartu
+428,PB407,Del Sauce,Manuel A. Matta
+428,PB496,Arturo Prat,Manuel A. Matta
+428,PB497,Pedro Lira,Manuel A. Matta
+428,PB498,Lo Cruzat,Manuel A. Matta
+428,PB499,4 Oriente,Manuel A. Matta
+428,PB500,Las Parcelas,Manuel A. Matta
+428,PB501,El Parque,Manuel A. Matta
+428,PB502,Zañartu,Manuel A. Matta
 428,PB1557,Vespucio,Carlos Gómez Vélez
 428c,PG1583,Vespucio,Gran Avenida
 428c,PG249,Carlos Casanueva,Trinidad Ramírez
@@ -5508,7 +5508,7 @@
 428c,PJ109,La Travesía,Caletera Vespucio
 428c,PJ110,Pas. El Maitén,Caletera Vespucio
 428c,PJ111,Ruta 68,Caletera Vespucio
-428c,PJ821,Parada 4,Vespucio
+428c,PJ821,Vespucio,San Pablo
 428c,PJ1726,Rotonda San Pablo,San Pablo
 428e,PG1583,Vespucio,Gran Avenida
 428e,PG415,Argentina,Trinidad Ramírez
@@ -5516,7 +5516,7 @@
 428e,PG418,Goycolea,Capricornio
 428e,PH288,Av. Ferrocarril,Metropolitano
 428e,PJ111,Ruta 68,Caletera Vespucio
-428e,PJ821,Parada 4,Vespucio
+428e,PJ821,Vespucio,San Pablo
 428e,PB483,Camino Lo Boza,Caletera Av. Vespucio
 428e,PB486,C. Lo Echevers,Caletera Vespucio
 428e,PB487,Cam. Lo Echevers,Caletera Vespucio
@@ -5582,16 +5582,16 @@
 429,PB516,Versalles,Av. Vespucio
 429,PB517,Mall Plaza Norte,Av. Vespucio
 429,PB185,Paso Independencia,Av. Vespucio
-429,PB518,Parada 1,Independencia
+429,PB518,Independencia,Vespucio
 429,PB519,Pas. Sur,Caletera Vespucio
 429,PB448,Manuel A. Matta 2,Senador Jaime Guzmán
-429,PB470,Parada 2,Zañartu
-429,PB471,Parada 2,Las Parcelas
-429,PB472,Parada 2,Lo Campino
-429,PB473,Parada 2,4 Oriente
-429,PB474,Parada 2,Lo Cruzat
-429,PB475,Parada 2,De La Medialuna
-429,PB476,Parada 2,Del Sauce
+429,PB470,Zañartu,Manuel A. Matta
+429,PB471,Las Parcelas,Manuel A. Matta
+429,PB472,Lo Campino,Manuel A. Matta
+429,PB473,4 Oriente,Manuel A. Matta
+429,PB474,Lo Cruzat,Manuel A. Matta
+429,PB475,De La Medialuna,Manuel A. Matta
+429,PB476,Del Sauce,Manuel A. Matta
 429,PB477,Parada 2,Mall San Valentín
 429,PB520,Pje. Los Torneros,Manuel Antonio Matta
 429,PB521,Linares,Manuel Antonio Matta
@@ -5643,9 +5643,9 @@
 431,PI220,Chile,Av. Los Pajaritos
 431,PI221,Maipú,Av. Los Pajaritos
 431,PI419,Parada 10,(M) Plaza de Maipú
-431,PI420,Parada 1,R. Ayala
-431,PI422,Parada 1,F. Riesco
-431,PI423,Parada 1,V. Reyes
+431,PI420,R. Ayala,Pajaritos
+431,PI422,F. Riesco,Pajaritos
+431,PI423,V. Reyes,Pajaritos
 431,PI424,San Ramón,Nueva O´Higgins
 431,PI425,Santa Elena,Nueva O´Higgins
 431,PI426,Nueva San Martín,Santa Elena
@@ -5683,9 +5683,9 @@
 431c,PI220,Chile,Av. Los Pajaritos
 431c,PI221,Maipú,Av. Los Pajaritos
 431c,PI419,Parada 10,(M) Plaza de Maipú
-431c,PI420,Parada 1,R. Ayala
-431c,PI422,Parada 1,F. Riesco
-431c,PI423,Parada 1,V. Reyes
+431c,PI420,R. Ayala,Pajaritos
+431c,PI422,F. Riesco,Pajaritos
+431c,PI423,V. Reyes,Pajaritos
 431c,PI424,San Ramón,Nueva O´Higgins
 431c,PI425,Santa Elena,Nueva O´Higgins
 431c,PI426,Nueva San Martín,Santa Elena
@@ -5700,9 +5700,9 @@
 431c,PI435,Avenida Sur,El Conquistador
 431c,PI436,Portales,El Conquistador
 431v,PI419,Parada 10,(M) Plaza de Maipú
-431v,PI420,Parada 1,R. Ayala
-431v,PI422,Parada 1,F. Riesco
-431v,PI423,Parada 1,V. Reyes
+431v,PI420,R. Ayala,Pajaritos
+431v,PI422,F. Riesco,Pajaritos
+431v,PI423,V. Reyes,Pajaritos
 431v,PI424,San Ramón,Nueva O´Higgins
 431v,PI425,Santa Elena,Nueva O´Higgins
 431v,PI426,Nueva San Martín,Santa Elena
@@ -5740,10 +5740,10 @@
 435,PB591,Limarí,Lo Campino
 435,PB532,Carampangue,Lo Campino
 435,PB651,Manuel A. Matta,Lo Campino
-435,PB473,Parada 2,4 Oriente
-435,PB474,Parada 2,Lo Cruzat
-435,PB475,Parada 2,De La Medialuna
-435,PB476,Parada 2,Del Sauce
+435,PB473,4 Oriente,Manuel A. Matta
+435,PB474,Lo Cruzat,Manuel A. Matta
+435,PB475,De La Medialuna,Manuel A. Matta
+435,PB476,Del Sauce,Manuel A. Matta
 435,PB477,Parada 2,Mall San Valentín
 435,PB520,Pje. Los Torneros,Manuel Antonio Matta
 435,PB521,Linares,Manuel Antonio Matta
@@ -5832,9 +5832,9 @@
 502,PA413,General Bulnes,Andes
 502,PA414,Rafael Sotomayor,Andes
 502,PA415,Maipú,Andes
-502,PJ288,Parada 2,Patricio Lynch
-502,PJ289,Parada 2,Lourdes
-502,PJ290,Parada 2,Alcérreca
+502,PJ288,Patricio Lynch,Andes
+502,PJ289,Lourdes,Andes
+502,PJ290,Alcérreca,Andes
 502,PJ291,Parada 1,Tropezón
 502,PJ292,Mendoza,Salvador Gutiérrez
 502,PJ294,La Plata,Salvador Gutiérrez
@@ -5865,7 +5865,7 @@
 502c,PA393,Parada 1,Plaza Italia
 502c,PA394,Parada 2,Parque Forestal
 502c,PA395,Parada 2,(M) Bellas Artes
-502c,PA260,Parada 2,Miraflores
+502c,PA260,Miraflores,Santo Domingo
 502c,PA47,Parada 2,Mercado Central
 502c,PA396,Parada 3,Estación Mapocho
 502c,PA214,Amunátegui,Presidente Balmaceda
@@ -5874,9 +5874,9 @@
 502c,PA413,General Bulnes,Andes
 502c,PA414,Rafael Sotomayor,Andes
 502c,PA415,Maipú,Andes
-502c,PJ288,Parada 2,Patricio Lynch
-502c,PJ289,Parada 2,Lourdes
-502c,PJ290,Parada 2,Alcérreca
+502c,PJ288,Patricio Lynch,Andes
+502c,PJ289,Lourdes,Andes
+502c,PJ290,Alcérreca,Andes
 502c,PJ291,Parada 1,Tropezón
 502c,PJ292,Mendoza,Salvador Gutiérrez
 502c,PJ294,La Plata,Salvador Gutiérrez
@@ -5954,33 +5954,33 @@
 503,PA413,General Bulnes,Andes
 503,PA414,Rafael Sotomayor,Andes
 503,PA415,Maipú,Andes
-503,PA416,Parada 2,Matucana
-503,PJ344,Parada 2,Juan Miranda
-503,PJ345,Parada 2,Villasana
+503,PA416,Matucana,Andes
+503,PJ344,Juan Miranda,Andes
+503,PJ345,Villasana,Andes
 503,PJ346,Parada 6,Consultorio Andes
-503,PJ347,Parada 2,Bismarck
+503,PJ347,Bismarck,Andes
 503,PJ348,J. J. Pérez,Antonio Ebner
-503,PJ349,Parada 2,Z. de San Martín
-503,PJ350,Parada 2,D. Deveuster
-503,PJ351,Parada 2,La Rejas
-503,PJ352,Parada 2,M. Lavín
-503,PJ353,Parada 2,Lo Ampuero
-503,PJ354,Parada 4,S. Izquierdo
-503,PJ355,Parada 4,Neptuno
-503,PJ356,Parada 2,Lo López
-503,PJ357,Parada 2,R. A. Jara
-503,PJ358,Parada 2,Araucanía
-503,PJ359,Parada 2,Las Torres
-503,PJ360,Parada 2,Sorrento
-503,PJ361,Parada 2,Huelén
-503,PJ362,Parada 4,Galvarino
-503,PJ363,Parada 4,Karlovack
+503,PJ349,Z. de San Martín,J.J. Pérez
+503,PJ350,D. Deveuster,J.J. Pérez
+503,PJ351,La Rejas,J.J. Pérez
+503,PJ352,M. Lavín,J.J. Pérez
+503,PJ353,Lo Ampuero,J.J. Pérez
+503,PJ354,S. Izquierdo,J.J. Pérez
+503,PJ355,Neptuno,J.J. Pérez
+503,PJ356,Lo López,J.J. Pérez
+503,PJ357,R. A. Jara,J.J. Pérez
+503,PJ358,Araucanía,J.J. Pérez
+503,PJ359,Las Torres,J.J. Pérez
+503,PJ360,Sorrento,J.J. Pérez
+503,PJ361,Huelén,J.J. Pérez
+503,PJ362,Galvarino,J.J. Pérez
+503,PJ363,Karlovack,J.J. Pérez
 503,PJ364,Mostar,San Daniel
 503,PJ365,Av. La Estrella,San Daniel
 503,PJ366,El Anillo,La Estrella
 503,PJ367,Plaza de Armas,La Estrella
 503,PJ368,El Almendral,La Estrella
-503,PJ369,Parada 1,(M) San Pablo
+503,PJ369,(M) San Pablo,La Estrella
 503,PJ370,El Cobre,La Estrella
 503,PJ371,Los Araucanos,La Estrella
 503,PJ221,Osa Mayor,Oscar Bonilla
@@ -5998,26 +5998,26 @@
 503c,PJ1562,Carrascal,Balmaceda
 503c,PJ1565,Chañarcillo,Matucana
 503c,PJ1551,Mapocho,Matucana
-503c,PJ344,Parada 2,Juan Miranda
-503c,PJ345,Parada 2,Villasana
+503c,PJ344,Juan Miranda,Andes
+503c,PJ345,Villasana,Andes
 503c,PJ346,Parada 6,Consultorio Andes
-503c,PJ347,Parada 2,Bismarck
+503c,PJ347,Bismarck,Andes
 503c,PJ348,J. J. Pérez,Antonio Ebner
-503c,PJ349,Parada 2,Z. de San Martín
-503c,PJ350,Parada 2,D. Deveuster
-503c,PJ351,Parada 2,La Rejas
-503c,PJ352,Parada 2,M. Lavín
-503c,PJ353,Parada 2,Lo Ampuero
-503c,PJ354,Parada 4,S. Izquierdo
-503c,PJ355,Parada 4,Neptuno
-503c,PJ356,Parada 2,Lo López
-503c,PJ357,Parada 2,R. A. Jara
-503c,PJ358,Parada 2,Araucanía
-503c,PJ359,Parada 2,Las Torres
-503c,PJ360,Parada 2,Sorrento
-503c,PJ361,Parada 2,Huelén
-503c,PJ362,Parada 4,Galvarino
-503c,PJ363,Parada 4,Karlovack
+503c,PJ349,Z. de San Martín,J.J. Pérez
+503c,PJ350,D. Deveuster,J.J. Pérez
+503c,PJ351,La Rejas,J.J. Pérez
+503c,PJ352,M. Lavín,J.J. Pérez
+503c,PJ353,Lo Ampuero,J.J. Pérez
+503c,PJ354,S. Izquierdo,J.J. Pérez
+503c,PJ355,Neptuno,J.J. Pérez
+503c,PJ356,Lo López,J.J. Pérez
+503c,PJ357,R. A. Jara,J.J. Pérez
+503c,PJ358,Araucanía,J.J. Pérez
+503c,PJ359,Las Torres,J.J. Pérez
+503c,PJ360,Sorrento,J.J. Pérez
+503c,PJ361,Huelén,J.J. Pérez
+503c,PJ362,Galvarino,J.J. Pérez
+503c,PJ363,Karlovack,J.J. Pérez
 503c,PJ364,Mostar,San Daniel
 504,PC307,Parada 3,Hosp. Dipreca
 504,PC308,Marisol,Vital Apoquindo
@@ -6060,8 +6060,8 @@
 504,PA395,Parada 2,(M) Bellas Artes
 504,PA302,Parada 2,Casa de Los Velasco
 504,PA421,Parada 4,(M) Plaza de Armas
-504,PA422,Parada 2,Bandera
-504,PA423,Parada 2,Teatinos
+504,PA422,Bandera,Santo Domingo
+504,PA423,Teatinos,Santo Domingo
 504,PA264,Parada 2,(M) Santa Ana
 504,PA424,Almirante Barroso,Santo Domingo
 504,PA425,Av. San Pablo,Almirante Barroso
@@ -6070,28 +6070,28 @@
 504,PA413,General Bulnes,Andes
 504,PA414,Rafael Sotomayor,Andes
 504,PA415,Maipú,Andes
-504,PA416,Parada 2,Matucana
-504,PJ344,Parada 2,Juan Miranda
-504,PJ345,Parada 2,Villasana
+504,PA416,Matucana,Andes
+504,PJ344,Juan Miranda,Andes
+504,PJ345,Villasana,Andes
 504,PJ346,Parada 6,Consultorio Andes
-504,PJ347,Parada 2,Bismarck
-504,PJ404,Parada 2,A. Ebner
+504,PJ347,Bismarck,Andes
+504,PJ404,A. Ebner,Andes
 504,PJ348,J. J. Pérez,Antonio Ebner
-504,PJ405,Parada 2,Martín Gil
-504,PJ406,Parada 2,Radal
-504,PJ351,Parada 2,La Rejas
-504,PJ407,Parada 2,J. Quinel
-504,PJ408,Parada 2,Alberdi
-504,PJ409,Parada 2,S. Izquierdo
-504,PJ410,Parada 2,Neptuno
-504,PJ411,Parada 2,Martín Necochea
-504,PJ412,Parada 2,H. Salas
-504,PJ413,Parada 2,El Peumo
-504,PJ414,Parada 2,Palermo
-504,PJ415,Parada 2,Milán
-504,PJ416,Parada 2,Sta. Teresa
-504,PJ417,Parada 2,Galvarino
-504,PJ418,Parada 2,Karlovack
+504,PJ405,Martín Gil,J.J. Pérez
+504,PJ406,Radal,J.J. Pérez
+504,PJ351,La Rejas,J.J. Pérez
+504,PJ407,J. Quinel,J.J. Pérez
+504,PJ408,Alberdi,J.J. Pérez
+504,PJ409,S. Izquierdo,J.J. Pérez
+504,PJ410,Neptuno,J.J. Pérez
+504,PJ411,Martín Necochea,J.J. Pérez
+504,PJ412,H. Salas,J.J. Pérez
+504,PJ413,El Peumo,J.J. Pérez
+504,PJ414,Palermo,J.J. Pérez
+504,PJ415,Milán,J.J. Pérez
+504,PJ416,Sta. Teresa,J.J. Pérez
+504,PJ417,Galvarino,J.J. Pérez
+504,PJ418,Karlovack,J.J. Pérez
 504,PJ365,Av. La Estrella,San Daniel
 504,PJ199,El Carmen,Serrano
 504,PJ419,Pje. San Daniel,San Daniel
@@ -6103,7 +6103,7 @@
 504,PJ425,La Campana,El Tranque
 504,PJ426,Cerro Ñielol,El Tranque
 504,PJ427,Av. San Pablo,El Tranque
-504,PJ164,Parada 3,Serrano
+504,PJ164,Serrano,San Pablo
 504,PJ227,Manuel Rodríguez,Serrano
 504,PJ228,Martínez de Rozas,Serrano
 504,PJ229,Atacama,Serrano
@@ -6122,8 +6122,8 @@
 505,PD513,Calle 19 A,Los Orientales
 505,PD514,Dip. L. Rodríguez,Ictinos
 505,PD515,Av. Grecia,Ictinos
-505,PD516,Parada 4,Los Molineros
-505,PD517,Parada 4,Cruz Almeyda
+505,PD516,Los Molineros,Av. Grecia
+505,PD517,Cruz Almeyda,Av. Grecia
 505,PD1350,Calle Nueva,Egaña
 505,PD1349,A. de Teorías,Egaña
 505,PD1351,Oriental,Egaña
@@ -6135,7 +6135,7 @@
 505,PD315,Agustín Vigorena,Av. Irarrázaval
 505,PD316,Pedro Torres,Av. Irarrázaval
 505,PD317,Jorge Washington,Av. Irarrázaval
-505,PD318,Parada 5,Irarrázaval
+505,PD318,Irarrázaval,Macul
 505,PD319,Villaseca,Av. Irarrázaval
 505,PD320,Marchant Pereira,Av. Irarrázaval
 505,PD321,Garín,Av. Irarrázaval
@@ -6157,22 +6157,22 @@
 505,PA395,Parada 2,(M) Bellas Artes
 505,PA302,Parada 2,Casa de Los Velasco
 505,PA421,Parada 4,(M) Plaza de Armas
-505,PA422,Parada 2,Bandera
-505,PA423,Parada 2,Teatinos
+505,PA422,Bandera,Santo Domingo
+505,PA423,Teatinos,Santo Domingo
 505,PA264,Parada 2,(M) Santa Ana
 505,PA246,Riquelme,Rosas
-505,PA431,Parada 2,Gral. Baquedano
+505,PA431,Gral. Baquedano,Rosas
 505,PA248,Ricardo Cumming,Rosas
 505,PA249,García Reyes,Rosas
 505,PA250,Cueto,Rosas
 505,PA251,Maipú,Rosas
 505,PA355,Matucana,Rosas
 505,PA432,San Pablo 2,Matucana
-505,PJ344,Parada 2,Juan Miranda
-505,PJ289,Parada 2,Lourdes
-505,PJ290,Parada 2,Alcérreca
+505,PJ344,Juan Miranda,Andes
+505,PJ289,Lourdes,Andes
+505,PJ290,Alcérreca,Andes
 505,PJ291,Parada 1,Tropezón
-505,PJ456,Parada 2,S. Gutiérrez
+505,PJ456,S. Gutiérrez,W. Martínez
 505,PJ457,Av. Carrascal,Augusto Matte
 505,PJ458,Muni. Quinta Normal,Carrascal
 505,PJ459,Esc. E. Hurtado,Carrascal
@@ -6215,10 +6215,10 @@
 506,PD1359,Muni. Peñalolén,Av. Grecia
 506,PD549,Laguna Salada,Av. Grecia
 506,PD550,Av. Tobalaba,Av. Grecia
-506,PD551,Parada 4,Calle 10 A
-506,PD552,Parada 4,Ictinos
-506,PD516,Parada 4,Los Molineros
-506,PD517,Parada 4,Cruz Almeyda
+506,PD551,Calle 10 A,Av. Grecia
+506,PD552,Ictinos,Av. Grecia
+506,PD516,Los Molineros,Av. Grecia
+506,PD517,Cruz Almeyda,Av. Grecia
 506,PD553,Parada 4,(M) Grecia
 506,PD578,Parada 2,Av. Grecia
 506,PD556,Parada 4,CDS Salvador Bustos
@@ -6239,8 +6239,8 @@
 506,PA450,Parada 1,(M) Parque O'Higgins
 506,PA451,Parada 4,Plaza Ercilla
 506,PA452,Parada 4,Escuela de Ingeniería
-506,PA453,Parada 2,Av. España
-506,PA454,Parada 4,Molina
+506,PA453,Av. España,Blanco
+506,PA454,Molina,Blanco
 506,PI547,Jotabeche,Arica
 506,PI1182,Nicasio Retamales,Arica
 506,PI548,Toro Mazotte,Arica
@@ -6272,9 +6272,9 @@
 506,PI220,Chile,Av. Los Pajaritos
 506,PI221,Maipú,Av. Los Pajaritos
 506,PI222,Parada 11,(M) Plaza de Maipú
-506,PI420,Parada 1,R. Ayala
-506,PI422,Parada 1,F. Riesco
-506,PI423,Parada 1,V. Reyes
+506,PI420,R. Ayala,Pajaritos
+506,PI422,F. Riesco,Pajaritos
+506,PI423,V. Reyes,Pajaritos
 506,PI424,San Ramón,Nueva O´Higgins
 506,PI425,Santa Elena,Nueva O´Higgins
 506,PI426,Nueva San Martín,Santa Elena
@@ -6299,10 +6299,10 @@
 506c,PD1359,Muni. Peñalolén,Av. Grecia
 506c,PD549,Laguna Salada,Av. Grecia
 506c,PD550,Av. Tobalaba,Av. Grecia
-506c,PD551,Parada 4,Calle 10 A
-506c,PD552,Parada 4,Ictinos
-506c,PD516,Parada 4,Los Molineros
-506c,PD517,Parada 4,Cruz Almeyda
+506c,PD551,Calle 10 A,Av. Grecia
+506c,PD552,Ictinos,Av. Grecia
+506c,PD516,Los Molineros,Av. Grecia
+506c,PD517,Cruz Almeyda,Av. Grecia
 506c,PD873,Pasaje 36,Rodrigo de Araya
 506c,PD874,Ramón Cruz,Rodrigo de Araya
 506c,PD569,Nueva,Rodrigo de Araya
@@ -6314,8 +6314,8 @@
 506e,PD547,Amanecer,Av. Grecia
 506e,PD1359,Muni. Peñalolén,Av. Grecia
 506e,PD550,Av. Tobalaba,Av. Grecia
-506e,PD551,Parada 4,Calle 10 A
-506e,PD516,Parada 4,Los Molineros
+506e,PD551,Calle 10 A,Av. Grecia
+506e,PD516,Los Molineros,Av. Grecia
 506e,PD553,Parada 4,(M) Grecia
 506e,PD558,Parada 4,Pedagógico
 506e,PD560,Parada 4,Estadio Nacional
@@ -6325,7 +6325,7 @@
 506e,PA448,Esc. F. Arriarán,Manuel Antonio Matta
 506e,PA450,Parada 1,(M) Parque O'Higgins
 506e,PA452,Parada 4,Escuela de Ingeniería
-506e,PA454,Parada 4,Molina
+506e,PA454,Molina,Blanco
 506e,PI548,Toro Mazotte,Arica
 506e,PI551,Luis Infante C.,Av. 5 de Abril
 506e,PI553,Las Rejas,Av. 5 de Abril
@@ -6340,9 +6340,9 @@
 506e,PI219,Centenario,Av. Los Pajaritos
 506e,PI221,Maipú,Av. Los Pajaritos
 506e,PI222,Parada 11,(M) Plaza de Maipú
-506e,PI420,Parada 1,R. Ayala
-506e,PI422,Parada 1,F. Riesco
-506e,PI423,Parada 1,V. Reyes
+506e,PI420,R. Ayala,Pajaritos
+506e,PI422,F. Riesco,Pajaritos
+506e,PI423,V. Reyes,Pajaritos
 506e,PI425,Santa Elena,Nueva O´Higgins
 506e,PI561,Los Diamantes,Alfredo Silva Carvallo
 506e,PI562,Cassandra,Alfredo Silva Carvallo
@@ -6361,10 +6361,10 @@
 506v,PD1359,Muni. Peñalolén,Av. Grecia
 506v,PD549,Laguna Salada,Av. Grecia
 506v,PD550,Av. Tobalaba,Av. Grecia
-506v,PD551,Parada 4,Calle 10 A
-506v,PD552,Parada 4,Ictinos
-506v,PD516,Parada 4,Los Molineros
-506v,PD517,Parada 4,Cruz Almeyda
+506v,PD551,Calle 10 A,Av. Grecia
+506v,PD552,Ictinos,Av. Grecia
+506v,PD516,Los Molineros,Av. Grecia
+506v,PD517,Cruz Almeyda,Av. Grecia
 506v,PD553,Parada 4,(M) Grecia
 506v,PD578,Parada 2,Av. Grecia
 506v,PD556,Parada 4,CDS Salvador Bustos
@@ -6385,8 +6385,8 @@
 506v,PA450,Parada 1,(M) Parque O'Higgins
 506v,PA451,Parada 4,Plaza Ercilla
 506v,PA452,Parada 4,Escuela de Ingeniería
-506v,PA453,Parada 2,Av. España
-506v,PA454,Parada 4,Molina
+506v,PA453,Av. España,Blanco
+506v,PA454,Molina,Blanco
 506v,PI547,Jotabeche,Arica
 506v,PI1182,Nicasio Retamales,Arica
 506v,PI548,Toro Mazotte,Arica
@@ -6418,9 +6418,9 @@
 506v,PI220,Chile,Av. Los Pajaritos
 506v,PI221,Maipú,Av. Los Pajaritos
 506v,PI222,Parada 11,(M) Plaza de Maipú
-506v,PI420,Parada 1,R. Ayala
-506v,PI422,Parada 1,F. Riesco
-506v,PI423,Parada 1,V. Reyes
+506v,PI420,R. Ayala,Pajaritos
+506v,PI422,F. Riesco,Pajaritos
+506v,PI423,V. Reyes,Pajaritos
 506v,PI424,San Ramón,Nueva O´Higgins
 506v,PI425,Santa Elena,Nueva O´Higgins
 506v,PI426,Nueva San Martín,Santa Elena
@@ -6453,10 +6453,10 @@
 507,PD1359,Muni. Peñalolén,Av. Grecia
 507,PD549,Laguna Salada,Av. Grecia
 507,PD550,Av. Tobalaba,Av. Grecia
-507,PD574,Parada 2,Calle 10 A
-507,PD575,Parada 2,Ictinos
-507,PD576,Parada 2,Los Molineros
-507,PD577,Parada 2,Cruz Almeyda
+507,PD574,Calle 10 A,Av. Grecia
+507,PD575,Ictinos,Av. Grecia
+507,PD576,Los Molineros,Av. Grecia
+507,PD577,Cruz Almeyda,Av. Grecia
 507,PD553,Parada 4,(M) Grecia
 507,PD578,Parada 2,Av. Grecia
 507,PD556,Parada 4,CDS Salvador Bustos
@@ -6477,8 +6477,8 @@
 507,PA450,Parada 1,(M) Parque O'Higgins
 507,PA459,Parada 2,Plaza Ercilla
 507,PA322,Parada 2,Escuela de Ingeniería
-507,PA277,Parada 2,Molina
-507,PA278,Parada 2,Bascuñán
+507,PA277,Molina,Blanco
+507,PA278,Bascuñán,Blanco
 507,PA13,Toesca,Bascuñán Guerrero
 507,PA14,Sazié,Bascuñán Guerrero
 507,PA15,Est. Víctor Jara,Bascuñán Guerrero
@@ -6488,27 +6488,27 @@
 507,PA6,Compañía,Matucana
 507,PA7,Parada 1,(M) Quinta Normal
 507,PA432,San Pablo 2,Matucana
-507,PJ344,Parada 2,Juan Miranda
-507,PJ345,Parada 2,Villasana
+507,PJ344,Juan Miranda,Andes
+507,PJ345,Villasana,Andes
 507,PJ346,Parada 6,Consultorio Andes
-507,PJ347,Parada 2,Bismarck
-507,PJ404,Parada 2,A. Ebner
+507,PJ347,Bismarck,Andes
+507,PJ404,A. Ebner,Andes
 507,PJ348,J. J. Pérez,Antonio Ebner
-507,PJ405,Parada 2,Martín Gil
-507,PJ406,Parada 2,Radal
-507,PJ351,Parada 2,La Rejas
-507,PJ407,Parada 2,J. Quinel
-507,PJ408,Parada 2,Alberdi
-507,PJ409,Parada 2,S. Izquierdo
-507,PJ410,Parada 2,Neptuno
-507,PJ411,Parada 2,Martín Necochea
-507,PJ412,Parada 2,H. Salas
-507,PJ413,Parada 2,El Peumo
-507,PJ414,Parada 2,Palermo
-507,PJ415,Parada 2,Milán
-507,PJ416,Parada 2,Sta. Teresa
-507,PJ417,Parada 2,Galvarino
-507,PJ418,Parada 2,Karlovack
+507,PJ405,Martín Gil,J.J. Pérez
+507,PJ406,Radal,J.J. Pérez
+507,PJ351,La Rejas,J.J. Pérez
+507,PJ407,J. Quinel,J.J. Pérez
+507,PJ408,Alberdi,J.J. Pérez
+507,PJ409,S. Izquierdo,J.J. Pérez
+507,PJ410,Neptuno,J.J. Pérez
+507,PJ411,Martín Necochea,J.J. Pérez
+507,PJ412,H. Salas,J.J. Pérez
+507,PJ413,El Peumo,J.J. Pérez
+507,PJ414,Palermo,J.J. Pérez
+507,PJ415,Milán,J.J. Pérez
+507,PJ416,Sta. Teresa,J.J. Pérez
+507,PJ417,Galvarino,J.J. Pérez
+507,PJ418,Karlovack,J.J. Pérez
 507,PJ531,Rolando Petersen 1,José Joaquín Pérez
 507,PJ525,Los Conquistadores,José Joaquín Pérez
 507,PJ526,Parque V. Parra,José Joaquín Pérez
@@ -6524,7 +6524,7 @@
 507,PJ425,La Campana,El Tranque
 507,PJ426,Cerro Ñielol,El Tranque
 507,PJ427,Av. San Pablo,El Tranque
-507,PJ164,Parada 3,Serrano
+507,PJ164,Serrano,San Pablo
 507,PJ227,Manuel Rodríguez,Serrano
 507,PJ228,Martínez de Rozas,Serrano
 507,PJ229,Atacama,Serrano
@@ -6538,10 +6538,10 @@
 507c,PD1359,Muni. Peñalolén,Av. Grecia
 507c,PD549,Laguna Salada,Av. Grecia
 507c,PD550,Av. Tobalaba,Av. Grecia
-507c,PD574,Parada 2,Calle 10 A
-507c,PD575,Parada 2,Ictinos
-507c,PD576,Parada 2,Los Molineros
-507c,PD577,Parada 2,Cruz Almeyda
+507c,PD574,Calle 10 A,Av. Grecia
+507c,PD575,Ictinos,Av. Grecia
+507c,PD576,Los Molineros,Av. Grecia
+507c,PD577,Cruz Almeyda,Av. Grecia
 507c,PD553,Parada 4,(M) Grecia
 507c,PD578,Parada 2,Av. Grecia
 507c,PD556,Parada 4,CDS Salvador Bustos
@@ -6613,8 +6613,8 @@
 508,PA395,Parada 2,(M) Bellas Artes
 508,PA302,Parada 2,Casa de Los Velasco
 508,PA421,Parada 4,(M) Plaza de Armas
-508,PA422,Parada 2,Bandera
-508,PA423,Parada 2,Teatinos
+508,PA422,Bandera,Santo Domingo
+508,PA423,Teatinos,Santo Domingo
 508,PA264,Parada 2,(M) Santa Ana
 508,PA460,Almirante Barroso,Catedral
 508,PA461,General Baquedano,Catedral
@@ -6624,11 +6624,11 @@
 508,PA464,Parada 2,(M) Quinta Normal
 508,PA7,Parada 1,(M) Quinta Normal
 508,PA432,San Pablo 2,Matucana
-508,PJ288,Parada 2,Patricio Lynch
-508,PJ289,Parada 2,Lourdes
-508,PJ290,Parada 2,Alcérreca
-508,PJ503,Parada 2,Córdova y Figueroa
-508,PJ504,Parada 2,Ladrillero
+508,PJ288,Patricio Lynch,Andes
+508,PJ289,Lourdes,Andes
+508,PJ290,Alcérreca,Andes
+508,PJ503,Córdova y Figueroa,Andes
+508,PJ504,Ladrillero,Andes
 508,PJ348,J. J. Pérez,Antonio Ebner
 508,PJ505,Santa Fe,Mapocho
 508,PJ506,S. de Uriona,Mapocho
@@ -6669,8 +6669,8 @@
 509,PA450,Parada 1,(M) Parque O'Higgins
 509,PA451,Parada 4,Plaza Ercilla
 509,PA452,Parada 4,Escuela de Ingeniería
-509,PA453,Parada 2,Av. España
-509,PA454,Parada 4,Molina
+509,PA453,Av. España,Blanco
+509,PA454,Molina,Blanco
 509,PI547,Jotabeche,Arica
 509,PI1182,Nicasio Retamales,Arica
 509,PI548,Toro Mazotte,Arica
@@ -6741,9 +6741,9 @@
 510,PD510,Pasaje 447,Las Parcelas
 510,PD369,Dip. L. Rodríguez,Av. Tobalaba
 510,PD1412,Av. Grecia,Av. Tobalaba
-510,PD575,Parada 2,Ictinos
-510,PD576,Parada 2,Los Molineros
-510,PD577,Parada 2,Cruz Almeyda
+510,PD575,Ictinos,Av. Grecia
+510,PD576,Los Molineros,Av. Grecia
+510,PD577,Cruz Almeyda,Av. Grecia
 510,PD553,Parada 4,(M) Grecia
 510,PD578,Parada 2,Av. Grecia
 510,PD556,Parada 4,CDS Salvador Bustos
@@ -6774,10 +6774,10 @@
 511,PD1359,Muni. Peñalolén,Av. Grecia
 511,PD549,Laguna Salada,Av. Grecia
 511,PD550,Av. Tobalaba,Av. Grecia
-511,PD574,Parada 2,Calle 10 A
-511,PD575,Parada 2,Ictinos
-511,PD576,Parada 2,Los Molineros
-511,PD577,Parada 2,Cruz Almeyda
+511,PD574,Calle 10 A,Av. Grecia
+511,PD575,Ictinos,Av. Grecia
+511,PD576,Los Molineros,Av. Grecia
+511,PD577,Cruz Almeyda,Av. Grecia
 511,PD553,Parada 4,(M) Grecia
 511,PD555,Parada 4,ADO Chile
 511,PD579,Parada 2,CDS Salvador Bustos
@@ -6808,7 +6808,7 @@
 511,PA594,Beaucheff,Pedro Montt
 511,PA534,Amapolas,Pedro Montt
 511,PA535,Francisco Pizarro,Siria
-511,PA288,Parada 4,Rondizzoni
+511,PA288,Rondizzoni,Bascuñán
 511,PA10,Mirador,Bascuñán Guerrero
 511,PA695,Espiñeira,Bascuñán Guerrero
 511,PA11,Luis de La Peña,Bascuñán Guerrero
@@ -6848,7 +6848,7 @@
 513,PD314,Ortúzar,Av. Irarrázaval
 513,PD315,Agustín Vigorena,Av. Irarrázaval
 513,PD316,Pedro Torres,Av. Irarrázaval
-513,PD318,Parada 5,Irarrázaval
+513,PD318,Irarrázaval,Macul
 513,PD319,Villaseca,Av. Irarrázaval
 513,PD320,Marchant Pereira,Av. Irarrázaval
 513,PD321,Garín,Av. Irarrázaval
@@ -6870,21 +6870,21 @@
 513,PA395,Parada 2,(M) Bellas Artes
 513,PA302,Parada 2,Casa de Los Velasco
 513,PA421,Parada 4,(M) Plaza de Armas
-513,PA422,Parada 2,Bandera
-513,PA423,Parada 2,Teatinos
+513,PA422,Bandera,Santo Domingo
+513,PA423,Teatinos,Santo Domingo
 513,PA264,Parada 2,(M) Santa Ana
 513,PA246,Riquelme,Rosas
-513,PA431,Parada 2,Gral. Baquedano
+513,PA431,Gral. Baquedano,Rosas
 513,PA248,Ricardo Cumming,Rosas
 513,PA249,García Reyes,Rosas
 513,PA250,Cueto,Rosas
 513,PA251,Maipú,Rosas
 513,PA355,Matucana,Rosas
 513,PA432,San Pablo 2,Matucana
-513,PJ289,Parada 2,Lourdes
-513,PJ290,Parada 2,Alcérreca
+513,PJ289,Lourdes,Andes
+513,PJ290,Alcérreca,Andes
 513,PJ291,Parada 1,Tropezón
-513,PJ456,Parada 2,S. Gutiérrez
+513,PJ456,S. Gutiérrez,W. Martínez
 513,PJ457,Av. Carrascal,Augusto Matte
 513,PJ458,Muni. Quinta Normal,Carrascal
 513,PJ534,Embajador Gómez,Carrascal
@@ -6957,7 +6957,7 @@
 514,PD315,Agustín Vigorena,Av. Irarrázaval
 514,PD316,Pedro Torres,Av. Irarrázaval
 514,PD317,Jorge Washington,Av. Irarrázaval
-514,PD318,Parada 5,Irarrázaval
+514,PD318,Irarrázaval,Macul
 514,PD319,Villaseca,Av. Irarrázaval
 514,PD320,Marchant Pereira,Av. Irarrázaval
 514,PD321,Garín,Av. Irarrázaval
@@ -7023,7 +7023,7 @@
 514c,PD315,Agustín Vigorena,Av. Irarrázaval
 514c,PD316,Pedro Torres,Av. Irarrázaval
 514c,PD317,Jorge Washington,Av. Irarrázaval
-514c,PD318,Parada 5,Irarrázaval
+514c,PD318,Irarrázaval,Macul
 514c,PD319,Villaseca,Av. Irarrázaval
 514c,PD320,Marchant Pereira,Av. Irarrázaval
 514c,PD321,Garín,Av. Irarrázaval
@@ -7359,14 +7359,14 @@ B06,PB958,Del Trigal,Lo Ovalle
 B06,PB959,O'Higgins,Lo Ovalle
 B06,PB960,Doña Leticia,Lib. Bdo. O'Higgins
 B06,PB961,Manuel A. Matta,Lib. Bdo. O'Higgins
-B06,PB407,Parada 1,Del Sauce
-B06,PB496,Parada 1,Arturo Prat
-B06,PB497,Parada 1,Pedro Lira
-B06,PB498,Parada 1,Lo Cruzat
-B06,PB499,Parada 1,4 Oriente
-B06,PB500,Parada 3,Las Parcelas
-B06,PB501,Parada 1,El Parque
-B06,PB502,Parada 1,Zañartu
+B06,PB407,Del Sauce,Manuel A. Matta
+B06,PB496,Arturo Prat,Manuel A. Matta
+B06,PB497,Pedro Lira,Manuel A. Matta
+B06,PB498,Lo Cruzat,Manuel A. Matta
+B06,PB499,4 Oriente,Manuel A. Matta
+B06,PB500,Las Parcelas,Manuel A. Matta
+B06,PB501,El Parque,Manuel A. Matta
+B06,PB502,Zañartu,Manuel A. Matta
 B06,PB416,Alcalde Guzmán,Pdte. Eduardo Frei M.
 B06,PB417,José María Caro,Pdte. Eduardo Frei M.
 B06,PB962,Los Abetos,Card. José María Caro
@@ -7408,11 +7408,11 @@ B07,PB1017,Manuel A. Matta 1,Pdte. Eduardo Frei M.
 B07,PB1018,Manuel A. Matta 2,Pdte. Eduardo Frei M.
 B07,PB1237,Carampangue,Senador Jaime Guzmán
 B07,PB448,Manuel A. Matta 2,Senador Jaime Guzmán
-B07,PB449,Parada 4,Zañartu
-B07,PB450,Parada 2,El Parque
-B07,PB451,Parada 2,El Tebo
-B07,PB452,Parada 4,4 Oriente
-B07,PB453,Parada 4,Lo Cruzat
+B07,PB449,Zañartu,Manuel A. Matta
+B07,PB450,El Parque,Manuel A. Matta
+B07,PB451,El Tebo,Manuel A. Matta
+B07,PB452,4 Oriente,Manuel A. Matta
+B07,PB453,Lo Cruzat,Manuel A. Matta
 B07,PB552,Alc. Jorge Indo,Lo Cruzat
 B07,PB553,Las Torres,Lo Cruzat
 B07,PB554,Lo Marcoleta,Lo Cruzat
@@ -7449,7 +7449,7 @@ B08,PB907,Vespucio,Pedro Fontova
 B08,PB516,Versalles,Av. Vespucio
 B08,PB517,Mall Plaza Norte,Av. Vespucio
 B08,PB185,Paso Independencia,Av. Vespucio
-B08,PB518,Parada 1,Independencia
+B08,PB518,Independencia,Vespucio
 B08,PB519,Pas. Sur,Caletera Vespucio
 B08,PB1056,La Conquista 1,Carampangue
 B08,PB1057,La Conquista 2,Carampangue
@@ -7581,16 +7581,16 @@ B11,PB579,Lucila Godoy,Manuel Antonio Matta
 B11,PB580,Gral. San Martín,Manuel Antonio Matta
 B11,PB494,José M. Carrera,Manuel Antonio Matta
 B11,PB495,Luna,Manuel Antonio Matta
-B11,PB407,Parada 1,Del Sauce
-B11,PB496,Parada 1,Arturo Prat
-B11,PB497,Parada 1,Pedro Lira
-B11,PB498,Parada 1,Lo Cruzat
-B11,PB499,Parada 1,4 Oriente
+B11,PB407,Del Sauce,Manuel A. Matta
+B11,PB496,Arturo Prat,Manuel A. Matta
+B11,PB497,Pedro Lira,Manuel A. Matta
+B11,PB498,Lo Cruzat,Manuel A. Matta
+B11,PB499,4 Oriente,Manuel A. Matta
 B11,PB581,Las Parcelas,Lo Campino
 B11,PB467,Ramón Rosales,Lo Campino
 B11,PB1530,Vespucio,Alcalde Guzmán
 B11,PB468,Pas. Guzmán,Caletera Vespucio
-B11,PB1000,Parada 5,Independencia
+B11,PB1000,Independencia,Vespucio
 B11,PB1160,Granada,Huechuraba
 B11,PB1161,Albany,Huechuraba
 B11,PB1162,Canberra,Huechuraba
@@ -7707,16 +7707,16 @@ B13,PB548,Lo Marcoleta,Lo Cruzat
 B13,PB549,Las Torres,Lo Cruzat
 B13,PB1256,Las Torres,Las Torres
 B13,PB1257,Manuel A. Matta,Las Torres
-B13,PB411,Parada 3,4 Oriente
-B13,PB499,Parada 1,4 Oriente
-B13,PB501,Parada 1,El Parque
-B13,PB502,Parada 1,Zañartu
+B13,PB411,4 Oriente,Manuel A. Matta
+B13,PB499,4 Oriente,Manuel A. Matta
+B13,PB501,El Parque,Manuel A. Matta
+B13,PB502,Zañartu,Manuel A. Matta
 B13,PB416,Alcalde Guzmán,Pdte. Eduardo Frei M.
 B13,PB417,José María Caro,Pdte. Eduardo Frei M.
 B13,PB999,José María Caro,Pdte. Eduardo Frei M.
 B13,PB447,Forestal,Pdte. Eduardo Frei M.
 B13,PB503,C. Emp. Cortijo,Caletera Vespucio
-B13,PB1000,Parada 5,Independencia
+B13,PB1000,Independencia,Vespucio
 B13,PB506,Mall Plaza Norte,Caletera Vespucio
 B13,PB507,Versalles,Caletera Vespucio
 B13,PB508,Pedro Fontova,Caletera Vespucio
@@ -7739,7 +7739,7 @@ B14,PB272,Central,Av. Independencia
 B14,PB273,Av. Francia,Av. Independencia
 B14,PB219,General Saavedra,Av. Independencia
 B14,PB275,Parada 2,Plaza Chacabuco
-B14,PB276,Parada 2,Einstein
+B14,PB276,Einstein,Independencia
 B14,PB1277,Huánuco,Einstein
 B14,PB1278,El Guanaco,Einstein
 B14,PB1279,La Quintrala,Einstein
@@ -7827,7 +7827,7 @@ B17,PB1334,Nueva de Matte,Nueva 1
 B17,PB1335,Bajos de Jiménez,Bravo de Saravia
 B17,PB1336,Eugenio Matte,Bajos de Jiménez
 B17,PB1337,14 de La Fama,Bajos de Jiménez
-B17,PB1563,Parada 4,Norte Sur
+B17,PB1563,Norte Sur,Dorsal
 B17,PB21,Lo Ruiz,Senador Jaime Guzmán
 B17,PB22,Colón,Senador Jaime Guzmán
 B17,PB1522,Senador J. Guzmán,Colón
@@ -7855,7 +7855,7 @@ B18,PB1344,Pedro Fontova,Huechuraba
 B18,PB516,Versalles,Av. Vespucio
 B18,PB517,Mall Plaza Norte,Av. Vespucio
 B18,PB185,Paso Independencia,Av. Vespucio
-B18,PB518,Parada 1,Independencia
+B18,PB518,Independencia,Vespucio
 B18,PB519,Pas. Sur,Caletera Vespucio
 B18,PB531,Pas. Guzmán,Caletera Vespucio
 B18,PB469,Alcalde Guzmán,Caletera Vespucio
@@ -7972,14 +7972,14 @@ B21,PB540,Santa Luisa,Lo Marcoleta
 B21,PB1614,Manuel A. Matta,Santa Luisa
 B21,PB494,José M. Carrera,Manuel Antonio Matta
 B21,PB495,Luna,Manuel Antonio Matta
-B21,PB407,Parada 1,Del Sauce
-B21,PB496,Parada 1,Arturo Prat
-B21,PB497,Parada 1,Pedro Lira
-B21,PB498,Parada 1,Lo Cruzat
-B21,PB499,Parada 1,4 Oriente
-B21,PB500,Parada 3,Las Parcelas
-B21,PB501,Parada 1,El Parque
-B21,PB502,Parada 1,Zañartu
+B21,PB407,Del Sauce,Manuel A. Matta
+B21,PB496,Arturo Prat,Manuel A. Matta
+B21,PB497,Pedro Lira,Manuel A. Matta
+B21,PB498,Lo Cruzat,Manuel A. Matta
+B21,PB499,4 Oriente,Manuel A. Matta
+B21,PB500,Las Parcelas,Manuel A. Matta
+B21,PB501,El Parque,Manuel A. Matta
+B21,PB502,Zañartu,Manuel A. Matta
 B21,PB416,Alcalde Guzmán,Pdte. Eduardo Frei M.
 B21,PB962,Los Abetos,Card. José María Caro
 B21,PB963,Los Acacios,Card. José María Caro
@@ -8127,7 +8127,7 @@ B25,PB272,Central,Av. Independencia
 B25,PB273,Av. Francia,Av. Independencia
 B25,PB219,General Saavedra,Av. Independencia
 B25,PB275,Parada 2,Plaza Chacabuco
-B25,PB276,Parada 2,Einstein
+B25,PB276,Einstein,Independencia
 B25,PB1277,Huánuco,Einstein
 B25,PB1278,El Guanaco,Einstein
 B25,PB1568,Magallanes,El Guanaco
@@ -8151,19 +8151,19 @@ B26,PA563,Agustinas,Maipú
 B26,PA5,Huérfanos,Matucana
 B26,PA6,Compañía,Matucana
 B26,PA7,Parada 1,(M) Quinta Normal
-B26,PA8,Parada 2,Sto. Domingo
+B26,PA8,Sto. Domingo,Matucana
 B26,PA432,San Pablo 2,Matucana
 B26,PA696,Andes,Matucana
 B26,PA387,Herrera,Mapocho
-B26,PA388,Parada 1,Libertad
-B26,PA389,Parada 1,García Reyes
+B26,PA388,Libertad,Av. Mapocho
+B26,PA389,García Reyes,Mapocho
 B26,PB432,Enrique Soro,Pdte. Eduardo Frei M.
 B26,PB433,Longitudinal,Pdte. Eduardo Frei M.
 B26,PB434,Ley 1838,Pdte. Eduardo Frei M.
 B26,PB435,Dgo. Santa María,Pdte. Eduardo Frei M.
 B26,PB436,Terminal de Flores,Pdte. Eduardo Frei M.
 B26,PB437,B. de Saravia,Pdte. Eduardo Frei M.
-B26,PB1559,Parada 1,Norte Sur
+B26,PB1559,Norte Sur,Dorsal
 B26,PB32,Barón de Juras R.,14 de La Fama
 B26,PB882,Roma,Barón de Juras Reales
 B26,PB883,El Lucero,Barón de Juras Reales
@@ -8193,7 +8193,7 @@ B27,PB272,Central,Av. Independencia
 B27,PB273,Av. Francia,Av. Independencia
 B27,PB219,General Saavedra,Av. Independencia
 B27,PB220,Parada 4,Plaza Chacabuco
-B27,PB221,Parada 4,Einstein
+B27,PB221,Einstein,Independencia
 B27,PB277,Pablo Urzúa,Av. Independencia
 B27,PB278,José Pérez C.,Av. Independencia
 B27,PB1645,Dorsal,Av. Independencia
@@ -8218,8 +8218,8 @@ B28,PA5,Huérfanos,Matucana
 B28,PA6,Compañía,Matucana
 B28,PA7,Parada 1,(M) Quinta Normal
 B28,PA432,San Pablo 2,Matucana
-B28,PJ288,Parada 2,Patricio Lynch
-B28,PJ289,Parada 2,Lourdes
+B28,PJ288,Patricio Lynch,Andes
+B28,PJ289,Lourdes,Andes
 B28,PJ346,Parada 6,Consultorio Andes
 B28,PJ47,Parada 2,Tropezón
 B28,PJ291,Parada 1,Tropezón
@@ -9047,7 +9047,7 @@ D03,PD314,Ortúzar,Av. Irarrázaval
 D03,PD315,Agustín Vigorena,Av. Irarrázaval
 D03,PD316,Pedro Torres,Av. Irarrázaval
 D03,PD317,Jorge Washington,Av. Irarrázaval
-D03,PD318,Parada 5,Irarrázaval
+D03,PD318,Irarrázaval,Macul
 D03,PD319,Villaseca,Av. Irarrázaval
 D03,PD320,Marchant Pereira,Av. Irarrázaval
 D03,PD321,Garín,Av. Irarrázaval
@@ -9087,8 +9087,8 @@ D05,PD866,Altiplano,Alejandro Sepúlveda
 D05,PD867,Llanura,Alejandro Sepúlveda
 D05,PD868,El Desierto,Alejandro Sepúlveda
 D05,PD869,Av. Grecia,Los Molineros
-D05,PD870,Parada 2,Fraternidad
-D05,PD871,Parada 6,Cruz Almeyda
+D05,PD870,Fraternidad,Av. Grecia
+D05,PD871,Cruz Almeyda,Av. Grecia
 D05,PD872,Parada 2,(M) Grecia
 D05,PD873,Pasaje 36,Rodrigo de Araya
 D05,PD874,Ramón Cruz,Rodrigo de Araya
@@ -9536,7 +9536,7 @@ D13,PD426,Irarrázaval,General Bustamante
 D13,PD427,Pedro de Oña,General Bustamante
 D13,PD1144,C. Errázuriz,Av. Grecia
 D13,PD1145,Parada 2,Suárez Mujica
-D13,PD1146,Parada 1,Salvador Sur
+D13,PD1146,Salvador Sur,Av. Grecia
 D13,PD1147,Parada 1,Villa Olímpica
 D13,PD1148,Parada 5,Av. Marathon
 D13,PD650,Carlos Dittborn,Marathon
@@ -9786,9 +9786,9 @@ E02,PE1271,Santa Cecilia,San Jorge
 E02,PE1281,Av. San Pablo,San Jorge
 E02,PE345,Calle 8,San Jorge
 E02,PE346,Pasaje 4,San Jorge
-E02,PE853,Parada 4,P- 24 Vicuña Mackenna
+E02,PE853,P- 24 Vicuña Mackenna,P- 24 Vicuña Mackenna
 E02,PE1259,Parada 4,(M) San José de La E.
-E02,PE875,Parada 4,P- 22 Vicuña Mackenna
+E02,PE875,P- 22 Vicuña Mackenna,P- 22 Vicuña Mackenna
 E02,PE347,Tinguiririca,José Miguel Carrera
 E02,PE348,Bacteriológico,José Miguel Carrera
 E02,PE349,Central Oriente,Perú
@@ -9811,9 +9811,9 @@ E02,PE361,El Sauce,Manuel Rodríguez
 E02,PE171,Tacora,Av. Vespucio
 E02,PE172,Parada 1,Santa Rosa
 E02,PE1308,Manutara,Santa Rosa
-E02,PE115,Parada 2,P- 23 Santa Rosa
-E02,PE116,Parada 4,P- 22 Santa Rosa
-E02,PE117,Parada 2,P- 20 Santa Rosa
+E02,PE115,P- 23 Santa Rosa,P- 23 Santa Rosa
+E02,PE116,P- 22 Santa Rosa,P- 22 Santa Rosa
+E02,PE117,P- 20 Santa Rosa,P- 20 Santa Rosa
 E02,PG436,Carmen,Santa Ana
 E02,PG437,Rivadavia,Santa Ana
 E02,PG438,Alvear,Santa Ana
@@ -9997,10 +9997,10 @@ E05,PE490,8 Oriente,Central
 E05,PE491,Los Vilos,Central
 E05,PE492,Membrillar,Central
 E05,PE493,Santa Rosa,Central
-E05,PG90,Parada 3,P- 18 Santa Rosa
-E05,PG112,Parada 3,P- 19 Santa Rosa
-E05,PG113,Parada 1,P- 20 Santa Rosa
-E05,PG92,Parada 1,P- 21 Santa Rosa
+E05,PG90,P- 18 Santa Rosa,P- 18 Santa Rosa
+E05,PG112,P- 19 Santa Rosa,P- 19 Santa Rosa
+E05,PG113,P- 20 Santa Rosa,P- 20 Santa Rosa
+E05,PG92,P- 21 Santa Rosa,P- 21 Santa Rosa
 E05,PG480,Juan Antonio Ríos,El Parrón
 E05,PG481,Carlos Dávila,El Parrón
 E05,PG482,Rivadavia,El Parrón
@@ -10130,7 +10130,7 @@ E09,PE644,El Araucano,Diego Portales
 E09,PE337,Josefa Portales,Diego Portales
 E09,PE338,Calle 1,Diego Portales
 E09,PE339,La Alauda,Diego Portales
-E10,PE116,Parada 4,P- 22 Santa Rosa
+E10,PE116,P- 22 Santa Rosa,P- 22 Santa Rosa
 E10,PE676,Calle 4,Tomé
 E10,PE677,Los Vilos,Tomé
 E10,PE678,El Tabo,Tomé
@@ -10168,8 +10168,8 @@ E10,PE398,Santa Victoria,Rojas Magallanes
 E10,PE399,Sánchez Fontecilla,Rojas Magallanes
 E10,PE1376,Las Araucarias Sur,Rojas Magallanes
 E10,PE1377,Las Nalcas Sur,Rojas Magallanes
-E11,PG1624,Parada 3,P- 26 Santa Rosa
-E11,PG1625,Parada 3,P- 27 Santa Rosa
+E11,PG1624,P- 26 Santa Rosa,P- 26 Santa Rosa
+E11,PG1625,P- 27 Santa Rosa,P- 27 Santa Rosa
 E11,PG1626,Alpatacal,Santa Rosa
 E11,PG1622,Santa Rosa,Riquelme
 E11,PE718,Sofía Eastman,Canto General
@@ -10327,10 +10327,10 @@ E15,PE1296,Julio Vildosola,Av. Vespucio
 E15,PE160,Parada 3,(M) B. de La Florida
 E15,PE523,Parada 10,(M) B. de La Florida
 E15,PE524,Parada 3,(M)Vicente Valdés
-E15,PE525,Parada 3,P- 16 Vicuña Mackenna
-E15,PE1276,Parada 3,P- 17 Vicuña Mackenna
+E15,PE525,P- 16 Vicuña Mackenna,P- 16 Vicuña Mackenna
+E15,PE1276,P- 17 Vicuña Mackenna,P- 17 Vicuña Mackenna
 E15,PE526,Los Pioneros,Av. Vicuña Mackenna
-E15,PE1273,Parada 3,P- 19 Vicuña Mackenna
+E15,PE1273,P- 19 Vicuña Mackenna,P- 19 Vicuña Mackenna
 E15,PE805,Los Cedros,Sótero del Río
 E15,PE806,Manutara,Sótero del Río
 E15,PE1297,Chaitén,Sótero del Río
@@ -10357,10 +10357,10 @@ E15c,PE1282,San Carlos de Ancud,Av. Vicuña Mackenna
 E15c,PE1304,J. Vildósola,Serafín Zamora
 E15c,PE523,Parada 10,(M) B. de La Florida
 E15c,PE524,Parada 3,(M)Vicente Valdés
-E15c,PE525,Parada 3,P- 16 Vicuña Mackenna
-E15c,PE1276,Parada 3,P- 17 Vicuña Mackenna
+E15c,PE525,P- 16 Vicuña Mackenna,P- 16 Vicuña Mackenna
+E15c,PE1276,P- 17 Vicuña Mackenna,P- 17 Vicuña Mackenna
 E15c,PE526,Los Pioneros,Av. Vicuña Mackenna
-E15c,PE1273,Parada 3,P- 19 Vicuña Mackenna
+E15c,PE1273,P- 19 Vicuña Mackenna,P- 19 Vicuña Mackenna
 E15c,PE805,Los Cedros,Sótero del Río
 E15c,PE806,Manutara,Sótero del Río
 E15c,PE1297,Chaitén,Sótero del Río
@@ -10613,7 +10613,7 @@ F03,PG559,Los Olmos,El Parque
 F03,PG1696,Los Plátanos,Los Olmos
 F03,PG1697,Los Plátanos,Los Olmos
 F03,PF117,Los Manzanos,Camino El Retiro
-F03,PF118,Parada 2,P- 48 Santa Rosa
+F03,PF118,P- 48 Santa Rosa,P- 48 Santa Rosa
 F03,PF234,Las Mariposas,Eyzaguirre
 F03,PF235,San Julián,Eyzaguirre
 F03,PF236,San Luis,Eyzaguirre
@@ -10774,7 +10774,7 @@ F06,PG608,Av. Juanita,Batallón Chacabuco
 F06,PG609,Soldado Ortega,Batallón Chacabuco
 F06,PG610,Coronel Del Canto,Batallón Chacabuco
 F06,PG1588,Parada 4,Parque Mapuhue
-F06,PG196,Parada 2,P- 38 Santa Rosa
+F06,PG196,P- 38 Santa Rosa,P- 38 Santa Rosa
 F06,PG1660,Parada 6,Plaza de La Pintana
 F06,PG613,Muni. La Pintana,Baldomero Lillo
 F06,PG614,Patagonia,Baldomero Lillo
@@ -11448,8 +11448,8 @@ F20,PF113,4 Oriente,Gabriela
 F20,PG129,Col. Nva. Nazaret,Gabriela
 F20,PG130,Av. Juanita 1,Gabriela
 F20,PG131,Av. Juanita 2,Gabriela
-F20,PG132,Parada 4,P- 37 Santa Rosa
-F20,PG1590,Parada 2,P- 37 Santa Rosa
+F20,PG132,P- 37 Santa Rosa,P- 37 Santa Rosa
+F20,PG1590,P- 37 Santa Rosa,P- 37 Santa Rosa
 F20,PG593,Baldomero Lillo,Aníbal Pinto
 F20,PG614,Patagonia,Baldomero Lillo
 F20,PG223,Tirandente,Baldomero Lillo
@@ -12039,10 +12039,10 @@ G09,PG1080,Los Pirineos,Santa Mercedes
 G09,PG1081,La Jardinera,Los Pirineos
 G09,PG1082,Balmaceda,Los Pétalos
 G10,PG219,Parada 6,Santa Rosa
-G10,PG254,Parada 1,P- 26 Santa Rosa
-G10,PE1294,Parada 3,P- 28 Santa Rosa
+G10,PG254,P- 26 Santa Rosa,P- 26 Santa Rosa
+G10,PE1294,P- 28 Santa Rosa,P- 28 Santa Rosa
 G10,PG97,Parada 3,Hosp. Padre Hurtado
-G10,PG1611,Parada 5,P- 30 Santa Rosa
+G10,PG1611,P- 30 Santa Rosa,P- 30 Santa Rosa
 G10,PG825,Sofía Eastman,Santo Tomás
 G10,PG826,Gabriela Figueroa,Santo Tomás
 G10,PG827,Edwards Bello,Santo Tomás
@@ -12061,7 +12061,7 @@ G11,PG448,Nueva 1,Sergio Ceppi
 G11,PG274,Nueva 2,Lo Ovalle
 G11,PG289,Pasaje 2,Lo Ovalle
 G11,PG278,Ciencias,Lo Ovalle
-G11,PG279,Parada 3,P-17 Gran Avenida
+G11,PG279,P-17 Gran Avenida,P-17 Gran Avenida
 G11,PG280,Liceo P. La Cisterna,Lo Ovalle
 G11,PG281,Angamos,Lo Ovalle
 G11,PG282,María,Lo Ovalle
@@ -12094,8 +12094,8 @@ G11,PG1124,Luis Durand,Esperanza
 G11,PG1125,Arturo Prat,Esperanza
 G11,PG1126,Caupolicán,Esperanza
 G11,PG1621,Santa Rosa,Esperanza
-G11,PG1623,Parada 1,Sgto. Candelaria
-G11,PG1611,Parada 5,P- 30 Santa Rosa
+G11,PG1623,Sgto. Candelaria,Santa Rosa
+G11,PG1611,P- 30 Santa Rosa,P- 30 Santa Rosa
 G11,PG836,Lautaro,Venancia Leiva
 G11,PG1128,Gral. F. Franco,El Bosque
 G11,PG100,Pedro Aguirre C.,Gral. Francisco Franco
@@ -12158,7 +12158,7 @@ G13,PG854,Av. Juanita,El Ombú
 G13,PG1176,El Belloto,El Ombú
 G13,PG1177,El Ciruelillo,El Ombú
 G13,PG1178,Algarrobo,El Ombú
-G13,PG1179,Parada 4,P- 41 Santa Rosa
+G13,PG1179,P- 41 Santa Rosa,P- 41 Santa Rosa
 G13,PG1180,Plaza de Armas,Santa Rosa
 G13,PG612,Bartolomé Vivar,Santa Rosa
 G13,PG1660,Parada 6,Plaza de La Pintana
@@ -12256,9 +12256,9 @@ G15,PG1255,Joaquín E. Bello,Aníbal Hunneus
 G15,PG1256,Santo Tomás,Joaquín Edwards Bello
 G15,PE833,Parinacota,Santo Tomás
 G15,PE834,Sofía Eastman,Santo Tomás
-G15,PG1617,Parada 6,Sto. Tomás
+G15,PG1617,Sto. Tomás,Sta. Rosa
 G15,PG1258,Parada 1,Colegio Jorge Hunneus
-G15,PG1663,Parada 5,P- 31 Santa Rosa
+G15,PG1663,P- 31 Santa Rosa,P- 31 Santa Rosa
 G15,PG1259,Manuel Hernández,Observatorio
 G15,PG1260,Santa Valentina,Observatorio
 G15,PG1261,Santa Pilar,Observatorio
@@ -12388,7 +12388,7 @@ G18,PG1328,Juan Sanfuentes,Argentina
 G18,PG1329,Carlos Dávila,Argentina
 G18,PG1330,Juan Antonio Ríos,Argentina
 G18,PG1331,Colombia,Argentina
-G18,PG115,Parada 3,P- 23 Santa Rosa
+G18,PG115,P- 23 Santa Rosa,P- 23 Santa Rosa
 G18,PG1332,Santa Juana,Doñihue
 G18,PG1333,Pedro Aguirre C.,Doñihue
 G18,PG1334,Juan Antonio Ríos,Doñihue
@@ -12428,7 +12428,7 @@ G18,PG110,Galvarino,Venancia Leiva
 G18,PG824,Santa Rosa,Santa Rosa
 G18,PG1620,El Bosque,Los Manantiales
 G18,PG1346,El Bosque,Los Manantiales
-G19,PG1624,Parada 3,P- 26 Santa Rosa
+G19,PG1624,P- 26 Santa Rosa,P- 26 Santa Rosa
 G19,PG498,Monte Albenia,Los Franciscanos
 G19,PG497,Pedro Aguirre C.,Los Franciscanos
 G19,PG1356,Av. Vicuña Mackenna,Pedro Aguirre Cerda
@@ -12546,7 +12546,7 @@ H02,PH449,Monja Alférez,San Nicolás
 H02,PH450,Gauss,San Nicolás
 H02,PH451,San Jerónimo,San Nicolás
 H02,PH452,Parada 5,Paradero 11 Gran Avenida
-H02,PH129,Parada 2,P- 11 Gran Avenida
+H02,PH129,P- 11 Gran Avenida,P- 11 Gran Avenida
 H02,PH130,Santa Ester,Gran Avenida
 H02,PH131,Avenida Berlín,Gran Avenida
 H02,PH453,Chiloé,Salesianos
@@ -12670,7 +12670,7 @@ H06,PA516,Ñuble,Arturo Prat
 H06,PA517,Arauco,Arturo Prat
 H06,PA509,San Diego,Franklin
 H06,PA62,Parada 1,Metro Franklin
-H06,PH1469,Parada 1,P- 1 Gran Avenida
+H06,PH1469,P- 1 Gran Avenida,P- 1 Gran Avenida
 H06,PH486,Carlos Valdovinos,Homero
 H06,PH487,San Ignacio,Carlos Valdovinos
 H06,PH103,J. J. Prieto,Carlos Valdovinos
@@ -12737,7 +12737,7 @@ H07,PH496,Orompello,Valenzuela Llanos
 H07,PH97,Pintor P. Reska,Carlos Valdovinos
 H07,PH335,El Carmelo,Bascuñán Guerrero
 H07,PA287,Siria,Bascuñán Guerrero
-H07,PA288,Parada 4,Rondizzoni
+H07,PA288,Rondizzoni,Bascuñán
 H07,PA684,Francisco Pizarro,General Rondizzoni
 H07,PA537,Av. El Mirador,General Rondizzoni
 H07,PA538,Av. Beaucheff,General Rondizzoni
@@ -12782,7 +12782,7 @@ H09,PH648,Santa Elisa,Alc. Pedro Alarcón
 H09,PH649,Actor Baguena,Alc. Pedro Alarcón
 H09,PH650,Chiloé,Alc. Pedro Alarcón
 H09,PH651,Parada 4,Municipalidad de San Miguel
-H09,PH113,Parada 1,P-8 Gran Avenida
+H09,PH113,P-8 Gran Avenida,P-8 Gran Avenida
 H09,PH114,Col. Claretiano,Gran Avenida
 H09,PH652,Rey Alberto,Teresa Vial
 H09,PH653,San Ignacio,Teresa Vial
@@ -12818,7 +12818,7 @@ H10,PH245,Macaroff,Lo Ovalle
 H10,PH246,San Petersburgo,Lo Ovalle
 H10,PH247,María,Lo Ovalle
 H10,PH248,Esmeralda,Lo Ovalle
-H10,PH249,Parada 4,P-17 Gran Avenida
+H10,PH249,P-17 Gran Avenida,P-17 Gran Avenida
 H10,PG1,Locarno,Gran Avenida
 H10,PG2,General Freire,Gran Avenida
 H10,PG3,Santa Teresa,Gran Avenida
@@ -12912,11 +12912,11 @@ H11c,PG1167,Paulina,Locarno
 H12,PA636,Parada 3,(M) Franklin
 H12,PA531,Nataniel Cox,Bío Bío
 H12,PA62,Parada 1,Metro Franklin
-H12,PH1469,Parada 1,P- 1 Gran Avenida
-H12,PH110,Parada 1,P-3 Gran Avenida
+H12,PH1469,P- 1 Gran Avenida,P- 1 Gran Avenida
+H12,PH110,P-3 Gran Avenida,P-3 Gran Avenida
 H12,PH111,Hosp. Barros Luco,Gran Avenida
 H12,PH727,Parada 1,Muni. de San Miguel
-H12,PH113,Parada 1,P-8 Gran Avenida
+H12,PH113,P-8 Gran Avenida,P-8 Gran Avenida
 H12,PH114,Col. Claretiano,Gran Avenida
 H12,PH652,Rey Alberto,Teresa Vial
 H12,PH653,San Ignacio,Teresa Vial
@@ -12982,11 +12982,11 @@ H13,PA507,San Isidro,Franklin
 H13,PA508,Santa Rosa,Franklin
 H13,PA509,San Diego,Franklin
 H13,PA62,Parada 1,Metro Franklin
-H13,PH1469,Parada 1,P- 1 Gran Avenida
-H13,PH110,Parada 1,P-3 Gran Avenida
+H13,PH1469,P- 1 Gran Avenida,P- 1 Gran Avenida
+H13,PH110,P-3 Gran Avenida,P-3 Gran Avenida
 H13,PH111,Hosp. Barros Luco,Gran Avenida
 H13,PH727,Parada 1,Muni. de San Miguel
-H13,PH113,Parada 1,P-8 Gran Avenida
+H13,PH113,P-8 Gran Avenida,P-8 Gran Avenida
 H13,PH114,Col. Claretiano,Gran Avenida
 H13,PH652,Rey Alberto,Teresa Vial
 H13,PH653,San Ignacio,Teresa Vial
@@ -13017,14 +13017,14 @@ H13,PH309,Acapulco,Adolfo López M.
 H13,PH695,Hermosilla,Adolfo López M.
 H14,PA544,Parada 4,(M) Franklin
 H14,PA62,Parada 1,Metro Franklin
-H14,PH1469,Parada 1,P- 1 Gran Avenida
-H14,PH110,Parada 1,P-3 Gran Avenida
+H14,PH1469,P- 1 Gran Avenida,P- 1 Gran Avenida
+H14,PH110,P-3 Gran Avenida,P-3 Gran Avenida
 H14,PH111,Hosp. Barros Luco,Gran Avenida
 H14,PH112,Parada 3,Muni. de San Miguel
-H14,PH113,Parada 1,P-8 Gran Avenida
+H14,PH113,P-8 Gran Avenida,P-8 Gran Avenida
 H14,PH114,Col. Claretiano,Gran Avenida
 H14,PH115,Leonidas Vial,Gran Avenida
-H14,PH117,Parada 1,P- 11 Gran Avenida
+H14,PH117,P- 11 Gran Avenida,P- 11 Gran Avenida
 H14,PH118,Colegio Chile,Gran Avenida
 H14,PH260,Parada 5,(M) Departamental
 H14,PH120,Tercera Avenida,Gran Avenida
@@ -13446,9 +13446,9 @@ I04,PI145,2ª Transversal,Av. 5 de Abril
 I04,PI146,Las Terrazas,Av. 5 de Abril
 I04,PI147,1ª Transversal,Av. 5 de Abril
 I04,PI228,Parada 5,(M) Plaza de Maipú
-I04,PI420,Parada 1,R. Ayala
-I04,PI422,Parada 1,F. Riesco
-I04,PI423,Parada 1,V. Reyes
+I04,PI420,R. Ayala,Pajaritos
+I04,PI422,F. Riesco,Pajaritos
+I04,PI423,V. Reyes,Pajaritos
 I04,PI1336,Nueva San Martín,Av. Los Pajaritos
 I04,PI297,Leopoldo Infante,Camino a Melipilla
 I04,PI298,Edelpa,Camino a Melipilla
@@ -13472,9 +13472,9 @@ I04,PI336,Las Dunas,Judea
 I04,PI337,Marco Antonio,Judea
 I04,PI338,Jorge Guerra,Judea
 I04c,PI228,Parada 5,(M) Plaza de Maipú
-I04c,PI420,Parada 1,R. Ayala
-I04c,PI422,Parada 1,F. Riesco
-I04c,PI423,Parada 1,V. Reyes
+I04c,PI420,R. Ayala,Pajaritos
+I04c,PI422,F. Riesco,Pajaritos
+I04c,PI423,V. Reyes,Pajaritos
 I04c,PI1336,Nueva San Martín,Av. Los Pajaritos
 I04c,PI297,Leopoldo Infante,Camino a Melipilla
 I04c,PI298,Edelpa,Camino a Melipilla
@@ -14237,8 +14237,8 @@ J01,PJ58,Parada 4,(M) Gruta de Lourdes
 J01,PJ45,Parada 1,(M) Gruta de Lourdes
 J01,PJ591,Parada 4,Consultorio Andes
 J01,PJ291,Parada 1,Tropezón
-J01,PJ48,Parada 4,S. Gutiérrez
-J01,PJ456,Parada 2,S. Gutiérrez
+J01,PJ48,S. Gutiérrez,W. Martínez
+J01,PJ456,S. Gutiérrez,W. Martínez
 J01,PJ457,Av. Carrascal,Augusto Matte
 J01,PJ458,Muni. Quinta Normal,Carrascal
 J01,PJ534,Embajador Gómez,Carrascal
@@ -14296,12 +14296,12 @@ J02,PA563,Agustinas,Maipú
 J02,PA5,Huérfanos,Matucana
 J02,PA547,Parada 3,(M) Quinta Normal
 J02,PA432,San Pablo 2,Matucana
-J02,PJ344,Parada 2,Juan Miranda
-J02,PJ345,Parada 2,Villasana
+J02,PJ344,Juan Miranda,Andes
+J02,PJ345,Villasana,Andes
 J02,PJ346,Parada 6,Consultorio Andes
-J02,PJ347,Parada 2,Bismarck
-J02,PJ504,Parada 2,Ladrillero
-J02,PJ404,Parada 2,A. Ebner
+J02,PJ347,Bismarck,Andes
+J02,PJ504,Ladrillero,Andes
+J02,PJ404,A. Ebner,Andes
 J02,PJ658,Santa Genoveva,Andes
 J02,PJ659,Eduardo Charme,Andes
 J02,PJ660,Radal,Andes
@@ -14342,11 +14342,11 @@ J03,PA324,Av. San Pablo,Ricardo Cumming
 J03,PA622,Cautín,Martínez de Rozas
 J03,PA621,Cueto,Martínez de Rozas
 J03,PA415,Maipú,Andes
-J03,PJ288,Parada 2,Patricio Lynch
-J03,PJ289,Parada 2,Lourdes
-J03,PJ290,Parada 2,Alcérreca
-J03,PJ503,Parada 2,Córdova y Figueroa
-J03,PJ504,Parada 2,Ladrillero
+J03,PJ288,Patricio Lynch,Andes
+J03,PJ289,Lourdes,Andes
+J03,PJ290,Alcérreca,Andes
+J03,PJ503,Córdova y Figueroa,Andes
+J03,PJ504,Ladrillero,Andes
 J03,PJ348,J. J. Pérez,Antonio Ebner
 J03,PJ505,Santa Fe,Mapocho
 J03,PJ506,S. de Uriona,Mapocho
@@ -14394,11 +14394,11 @@ J04,PJ723,Pula,Rolando Petersen
 J04,PJ724,Augusto Senoa 1,Istria
 J04,PJ725,Augusto Senoa 2,Istria
 J04,PJ726,J. J. Pérez,Istria
-J04,PJ325,Parada 1,A. Campos
-J04,PJ326,Parada 1,Mar Caribe
+J04,PJ325,A. Campos,J.J. Pérez
+J04,PJ326,Mar Caribe,J.J. Pérez
 J04,PJ391,Parada 1,Escuela Malokai
-J04,PJ327,Parada 1,8 de Abril
-J04,PJ328,Parada 1,Padua
+J04,PJ327,8 de Abril,J.J. Pérez
+J04,PJ328,Padua,J.J. Pérez
 J04,PJ727,Panimávida,Las Torres
 J04,PJ728,Los Duraznos,Las Torres
 J04,PJ1678,Padre Hurtado,Las Torres
@@ -14431,11 +14431,11 @@ J04c,PJ723,Pula,Rolando Petersen
 J04c,PJ724,Augusto Senoa 1,Istria
 J04c,PJ725,Augusto Senoa 2,Istria
 J04c,PJ726,J. J. Pérez,Istria
-J04c,PJ325,Parada 1,A. Campos
-J04c,PJ326,Parada 1,Mar Caribe
+J04c,PJ325,A. Campos,J.J. Pérez
+J04c,PJ326,Mar Caribe,J.J. Pérez
 J04c,PJ391,Parada 1,Escuela Malokai
-J04c,PJ327,Parada 1,8 de Abril
-J04c,PJ328,Parada 1,Padua
+J04c,PJ327,8 de Abril,J.J. Pérez
+J04c,PJ328,Padua,J.J. Pérez
 J04c,PJ727,Panimávida,Las Torres
 J04c,PJ728,Los Duraznos,Las Torres
 J04c,PJ1678,Padre Hurtado,Las Torres
@@ -14487,7 +14487,7 @@ J05,PJ1018,Martínez de Rozas,Córdova Y Figueroa
 J05,PJ741,Av. San Pablo,Córdova Y Figueroa
 J05,PJ97,Parada 2,(M) Gruta de Lourdes
 J05,PJ52,Parada 3,Basílica de Lourdes
-J05,PJ98,Parada 3,Matucana
+J05,PJ98,Matucana,San Pablo
 J05,PJ54,Santo Domingo,Matucana
 J05,PA1,Parada 6,(M) Quinta Normal
 J05,PA427,Hosp. Juan de Dios,Compañía
@@ -14529,9 +14529,9 @@ J06,PJ673,Teniente Cruz,San Francisco
 J06,PJ67,Lago Ontario,Teniente Cruz
 J06,PJ68,Ricardo Vial,Teniente Cruz
 J06,PJ1604,Parada 6,Muni. de Pudahuel
-J06,PJ154,Parada 2,Los Ediles
-J06,PJ994,Parada 4,Liceo C-87
-J06,PJ156,Parada 2,San Pablo
+J06,PJ154,Los Ediles,San Pablo
+J06,PJ994,Liceo C-87,Liceo C-87
+J06,PJ156,San Pablo,La Estrella
 J06,PJ320,El Estribo,La Estrella
 J06,PJ321,Plaza de Armas,La Estrella
 J06,PJ322,Las Espuelas,La Estrella
@@ -14629,7 +14629,7 @@ J09,PJ424,Cerro Vicuña,El Tranque
 J09,PJ425,La Campana,El Tranque
 J09,PJ426,Cerro Ñielol,El Tranque
 J09,PJ427,Av. San Pablo,El Tranque
-J09,PJ164,Parada 3,Serrano
+J09,PJ164,Serrano,San Pablo
 J09,PJ816,Atenas,Serrano
 J09,PJ204,Corona Sueca,Serrano
 J09,PJ205,Gral. O. Bonilla,Serrano
@@ -14674,8 +14674,8 @@ J09,PA298,Parada 7,Metro Santa Ana
 J10,PA701,Esperanza,Presidente Errázuriz
 J10,PA602,Mapocho 1,Esperanza
 J10,PA603,Mapocho 2,Esperanza
-J10,PA404,Parada 1,R. Sotomayor
-J10,PA405,Parada 1,Gral. Bulnes
+J10,PA404,R. Sotomayor,Mapocho
+J10,PA405,Gral. Bulnes,Mapocho
 J10,PA390,Ricardo Cumming,Mapocho
 J10,PA309,Av. San Pablo,Ricardo Cumming
 J10,PA310,Santo Domingo,Ricardo Cumming
@@ -14714,8 +14714,8 @@ J10,PJ927,Los Ediles,Corona Sueca
 J10,PJ928,Rublo Ruso,Corona Sueca
 J10,PJ929,El Salitre,Corona Sueca
 J10,PJ930,Nadir,La Estrella
-J10,PJ931,Parada 6,San Pablo
-J10,PJ185,Parada 2,Sargento Aldea
+J10,PJ931,San Pablo,La Estrella
+J10,PJ185,Sargento Aldea,San Pablo
 J10,PJ932,Las Penas,Santa Victoria
 J10,PJ933,Heráldica,Santa Victoria
 J10,PJ934,San Francisco,Santa Victoria
@@ -14790,11 +14790,11 @@ J13,PJ615,San Francisco,Neptuno
 J13,PJ616,Los Copihues,Neptuno
 J13,PJ617,Santa Luisa,Neptuno
 J13,PJ618,Parada 9,(M) San Pablo
-J13,PJ129,Parada 1,Santa Nora
+J13,PJ129,Santa Nora,San Pablo
 J13,PJ130,Parada 2,(M) Lo Prado
-J13,PJ131,Parada 1,Talcahuano
+J13,PJ131,Talcahuano,San Pablo
 J13,PJ132,Parada 5,(M) Blanqueado
-J13,PJ133,Parada 1,Radal
+J13,PJ133,Radal,San Pablo
 J13,PJ1738,Santo Domingo,Radal
 J13,PJ978,Catedral,Radal
 J13,PJ979,Nueva Imperial,Radal
@@ -14917,12 +14917,12 @@ J15,PJ882,Pardo Villalón,Dorsal
 J15,PJ1066,Froilán Bijou,Territorio Antártico
 J15,PJ1065,Neptuno,Territorio Antártico
 J15,PJ1586,Parada 10,(M) San Pablo
-J15,PJ991,Parada 2,Las Torres
-J15,PJ992,Parada 2,Los Maitenes
+J15,PJ991,Las Torres,San Pablo
+J15,PJ992,Los Maitenes,San Pablo
 J15,PJ1604,Parada 6,Muni. de Pudahuel
-J15,PJ154,Parada 2,Los Ediles
-J15,PJ994,Parada 4,Liceo C-87
-J15,PJ156,Parada 2,San Pablo
+J15,PJ154,Los Ediles,San Pablo
+J15,PJ994,Liceo C-87,Liceo C-87
+J15,PJ156,San Pablo,La Estrella
 J15,PJ320,El Estribo,La Estrella
 J15,PJ321,Plaza de Armas,La Estrella
 J15,PJ322,Las Espuelas,La Estrella
@@ -14951,9 +14951,9 @@ J15c,PJ555,T. Antártico,Las Torres
 J15c,PJ1019,Tupungato,Waldo Taff
 J15c,PJ1020,Gabriela Mistral,Waldo Taff
 J15c,PJ1604,Parada 6,Muni. de Pudahuel
-J15c,PJ154,Parada 2,Los Ediles
-J15c,PJ994,Parada 4,Liceo C-87
-J15c,PJ156,Parada 2,San Pablo
+J15c,PJ154,Los Ediles,San Pablo
+J15c,PJ994,Liceo C-87,Liceo C-87
+J15c,PJ156,San Pablo,La Estrella
 J15c,PJ320,El Estribo,La Estrella
 J15c,PJ321,Plaza de Armas,La Estrella
 J15c,PJ322,Las Espuelas,La Estrella
@@ -14982,7 +14982,7 @@ J16,PJ58,Parada 4,(M) Gruta de Lourdes
 J16,PJ1731,Díaz Sagredo,Santo Domingo
 J16,PJ189,Barros Arana,Santo Domingo
 J16,PJ255,Parada 2,Liceo Vicente P. Rosales
-J16,PJ190,Parada 2,Radal
+J16,PJ190,Radal,San Pablo
 J16,PJ1063,Martínez de Rozas,Radal
 J16,PJ26,Padre Tadeo,Radal
 J16,PJ27,Nueva Extremadura,Radal
@@ -15017,9 +15017,9 @@ J17,PJ1057,Oceanía 1,Pedro Jorquera
 J17,PJ1058,Oceanía 2,Pedro Jorquera
 J17,PJ1048,Vespucio,Oceanía
 J17,PJ114,Vespucio,Av. San Pablo
-J17,PJ115,Parada 1,Vespucio
-J17,PJ116,Parada 1,El Tranque
-J17,PJ164,Parada 3,Serrano
+J17,PJ115,Vespucio,San Pablo
+J17,PJ116,El Tranque,San Pablo
+J17,PJ164,Serrano,San Pablo
 J17,PJ816,Atenas,Serrano
 J17,PJ204,Corona Sueca,Serrano
 J17,PJ205,Gral. O. Bonilla,Serrano
