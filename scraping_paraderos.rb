@@ -2,7 +2,8 @@
 # Scraping paraderos transantiago por recorrido
 # http://github/Lucyan
 ###############################################################################
-# version: 0.1 - 06-11-2011
+# version: 0.1b - 07-11-2011
+#   versión alternativa, que genera archivos SQL para ser insertados
 #
 # - Paso 1: Obtiene listado de recorridos
 # - Paso 2: Obtiene paraderos Ida de recorridos - out: salida/ida.txt
@@ -61,7 +62,7 @@ total = recorridos.length
 procesando = 1
 procesoTotal = 0
 # Nuevo fichero en modo lectura (si existe, es eliminado)
-File.open('salida/ida.txt', 'w') do |ida|
+File.open('salida/ida.sql', 'w') do |ida|
   # Ciclo recorre recorridos
   recorridos.each do |recorrido|
     puts "Procesando #{procesando} de #{total}"
@@ -106,7 +107,7 @@ File.open('salida/ida.txt', 'w') do |ida|
     # Escribe en archivo
     i = 0
     parada.each do |p|
-      ida.puts "#{recorrido},#{p},#{calle1[i]},#{calle2[i]}"
+      ida.puts "insert into recorridos (recorrido, paradero, esquina, interseccion) values (#{recorrido},#{p},#{calle1[i]},#{calle2[i]});"
       i += 1
       procesoTotal += 1
     end
@@ -130,7 +131,7 @@ total = recorridos.length
 procesando = 1
 procesoTotal = 0
 # Nuevo fichero en modo lectura (si existe, es eliminado)
-File.open('salida/regreso.txt', 'w') do |regreso|
+File.open('salida/regreso.sql', 'w') do |regreso|
   # Ciclo recorre recorridos
   recorridos.each do |recorrido|
     puts "Procesando #{procesando} de #{total}"
@@ -175,7 +176,7 @@ File.open('salida/regreso.txt', 'w') do |regreso|
     # Escribe en archivo
     i = 0
     parada.each do |p|
-      regreso.puts "#{recorrido},#{p},#{calle1[i]},#{calle2[i]}"
+      regreso.puts "insert into recorridos (recorrido, paradero, esquina, interseccion) values (#{recorrido},#{p},#{calle1[i]},#{calle2[i]})"
       i += 1
       procesoTotal += 1
     end
