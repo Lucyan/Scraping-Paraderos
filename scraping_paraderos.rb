@@ -107,7 +107,7 @@ File.open('salida/ida.sql', 'w') do |ida|
     # Escribe en archivo
     i = 0
     parada.each do |p|
-      ida.puts "insert into recorridos (recorrido, paradero, esquina, interseccion) values (#{recorrido},#{p},#{calle1[i]},#{calle2[i]});"
+      ida.puts "insert into recorridos (recorrido, paradero, tipo, esquina, interseccion) values (\"#{recorrido}\",\"#{p}\",\"ida\",\"#{calle1[i]}\",\"#{calle2[i]}\");"
       i += 1
       procesoTotal += 1
     end
@@ -176,7 +176,7 @@ File.open('salida/regreso.sql', 'w') do |regreso|
     # Escribe en archivo
     i = 0
     parada.each do |p|
-      regreso.puts "insert into recorridos (recorrido, paradero, esquina, interseccion) values (#{recorrido},#{p},#{calle1[i]},#{calle2[i]})"
+      regreso.puts "insert into recorridos (recorrido, paradero, tipo, esquina, interseccion) values (\"#{recorrido}\",\"#{p}\",\"regreso\",\"#{calle1[i]}\",\"#{calle2[i]}\");"
       i += 1
       procesoTotal += 1
     end
