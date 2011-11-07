@@ -182,6 +182,7 @@ File.open('salida/regreso.txt', 'w') do |regreso|
     procesando += 1
   end
 end
+puts "Descarga finalizada, se descargaron #{procesoTotal} registros"
 #--------------------------------------------------------------------------------------
 # Fin Paso 3
 #--------------------------------------------------------------------------------------
