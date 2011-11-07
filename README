@@ -1,8 +1,19 @@
 Este proyecto se basa en ejemplos de web y data scraping escrito en Ruby y utilizando la gema mechanizer, el fin es poder obtener y tener a disposición la ubicación de los paraderos del transantiago para ser utilizado en otros proyectos
 
-versión 0.1:
+versión 0.1b:
+- Versión alternativa, genera archivos SQL
 - Obtiene listado de recorridos
 - Descarga paraderos de Ida y Regreso por recorrido
-- La información obtenida es escrita en archivos de texto plano (salida/ida.txt y salida/regreso.txt)
-	- La estructura de los archivos es:
-		[recorrido, paradero, esquina, intersección]
+- La información obtenida es escrita en archivos de texto plano (salida/ida.sql y salida/regreso.sql)
+- Los archivos generados llevan sintaxis de inserción de registros en una creada previamente
+
+SQL creación de tabla (MySql):
+CREATE TABLE  `recorridos` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `recorrido` varchar(10) DEFAULT NULL,
+  `paradero` varchar(10) DEFAULT NULL,
+  `tipo` varchar(10) DEFAULT NULL,
+  `esquina` varchar(30) DEFAULT NULL,
+  `interseccion` varchar(30) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=91672 DEFAULT CHARSET=utf8
